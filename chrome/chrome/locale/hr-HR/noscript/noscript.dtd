@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Opcije...">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "NoScript Opcije">
-<!ENTITY noscriptAbout "O NoScript">
+<!ENTITY noscriptOptionsLong "NoScriptMinus Opcije">
+<!ENTITY noscriptAbout "O NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Možete odrediti koje web stranice imaju dopuštenje za izvođenje skripti. Upišite adresu ili domenu (npr. &quot;http://www.stranica.hr&quot; ili &quot;stranica.hr&quot;) stranice kojoj želite dopustiti i kliknite na Dopusti.">
 <!ENTITY noscriptWebAddress "Adresa web stranice:">
 <!ENTITY noscriptAllow "Dopusti">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Dopuštenja">
 <!ENTITY noscriptRefresh "Osvježi">
 <!ENTITY noscriptNotifications "Obavijesti">
-<!ENTITY noscriptToolbarToggle "Lijevom klikom na NoScript gumb alatne trake mijenjate dopuštenja za trenutnu vršnu stranicu">
+<!ENTITY noscriptToolbarToggle "Lijevom klikom na NoScriptMinus gumb alatne trake mijenjate dopuštenja za trenutnu vršnu stranicu">
 <!ENTITY noscriptTrusted "Pouzdane">
 <!ENTITY noscriptUntrusted "Nepouzdane">
 <!ENTITY noscriptUnknown "Nepoznato">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Sakrij &lt;NOSCRIPT&gt; elemente">
 <!ENTITY noscriptNselForce "Prikaži &lt;NOSCRIPT&gt; elemente koji slijede blokirane &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Privremeno kao zadano dopusti vršne stranice">
-<!ENTITY noscriptDescription "Dodatna zaštita za Vaš Firefox: NoScript dopušta JavaScript, Java (i druge dodatke) samo za provjerene domene Vašeg izbora (npr. Vaša stranica Intenet bankarstva) . Ovaj pristup preventivnog blokiranja zasnovan na popisu dopuštenih spriječava iskorištavanje sigurnosnih slabosti (znanih i neznanih) bez ikakvog gubitka funkcionalnosti... Stručnjaci će se složiti: Firefox je zbilja sigurniji s NoScript :-)">
+<!ENTITY noscriptDescription "Dodatna zaštita za Vaš Firefox: NoScriptMinus dopušta JavaScript, Java (i druge dodatke) samo za provjerene domene Vašeg izbora (npr. Vaša stranica Intenet bankarstva) . Ovaj pristup preventivnog blokiranja zasnovan na popisu dopuštenih spriječava iskorištavanje sigurnosnih slabosti (znanih i neznanih) bez ikakvog gubitka funkcionalnosti... Stručnjaci će se složiti: Firefox je zbilja sigurniji s NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Block CSS-based scanners">
 <!ENTITY noscriptOptFilterXGet "Sanitize cross-site suspicious requests">
 <!ENTITY noscriptOptFilterXPost "Turn cross-site POST requests into data-less GET requests">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignorirati nesigurne kolačiće podešene preko HTTPS-a kod sljedećih sajta:">
 <!ENTITY noscriptClearClickTitle "ClearClick-upozorenje">
 <!ENTITY noscriptClearClickHeader "Mogući Clickjacking/UI Redressing napad">
-<!ENTITY noscriptClearClickDescription "NoScript je primjetio interakciju miša ili tastatura sa djelomićno sakrivenim elementom. Klikni na gornju sliku kako bi promjenio između zaklonjene i jasne verzije">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus je primjetio interakciju miša ili tastatura sa djelomićno sakrivenim elementom. Klikni na gornju sliku kako bi promjenio između zaklonjene i jasne verzije">
 <!ENTITY noscriptClearClickOpt "ClearClick-zaštita na stranicama...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

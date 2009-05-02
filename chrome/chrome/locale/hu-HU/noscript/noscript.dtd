@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Beállítások…">
 <!ENTITY noscriptOptions.accesskey "B">
-<!ENTITY noscriptOptionsLong "A NoScript beállításai">
-<!ENTITY noscriptAbout "A NoScript névjegye">
+<!ENTITY noscriptOptionsLong "A NoScriptMinus beállításai">
+<!ENTITY noscriptAbout "A NoScriptMinus névjegye">
 <!ENTITY noscriptPermissionsText "Megadhatja, hogy mely webhelyek számára engedélyezi a parancsfájlok futtatását. Írja be az engedélyezni kívánt webhely címét vagy tartomány nevét (pl. &quot;http://www.webhely.hu&quot; vagy &quot;webhely.hu&quot;), majd kattintson az Engedélyezés gombra.">
 <!ENTITY noscriptWebAddress "A webhely címe:">
 <!ENTITY noscriptAllow "Engedélyezés">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "&lt;NOSCRIPT&gt; elemek elrejtése">
 <!ENTITY noscriptNselForce "&lt;NOSCRIPT&gt; elem megjelenítése, amely a blokkolt &lt;SCRIPT&gt; után következik">
 <!ENTITY noscriptAutoAllowTopLevel "Legmagasabb szintű webhelyek ideiglenes engedélyezése">
-<!ENTITY noscriptDescription "Firefox extra védelme: NoScript engedélyezheti a JavaScript, Java (és más beépülőket) az Ön által megadott webhelyekre (pl. átutalások interneten keresztül). Ez a megbízható szervereket tartalmazó lista megelőző blokkoláson alapszik, így óv a támadásoktól a biztonsági réseken keresztül (ismert és ismeretlen!), mindezt működés közben… Az expertek egyetértenek: A Firefox a NoScript kiterjesztéssel valóban biztonságosabb :-)">
+<!ENTITY noscriptDescription "Firefox extra védelme: NoScriptMinus engedélyezheti a JavaScript, Java (és más beépülőket) az Ön által megadott webhelyekre (pl. átutalások interneten keresztül). Ez a megbízható szervereket tartalmazó lista megelőző blokkoláson alapszik, így óv a támadásoktól a biztonsági réseken keresztül (ismert és ismeretlen!), mindezt működés közben… Az expertek egyetértenek: A Firefox a NoScriptMinus kiterjesztéssel valóban biztonságosabb :-)">
 <!ENTITY noscriptOptBlockCssScanners "CSS-alapú szkennerek blokkolása">
 <!ENTITY noscriptOptFilterXGet "Gyanús XSS hozzáférések kezelése">
 <!ENTITY noscriptOptFilterXPost "POST hozzáférés átváltása GET hozzáférésre">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Veszélyes sütik figyelmen kívül hagyása, amelyek HTTPS segítségével lettek beállítva az alábbi oldalakon:">
 <!ENTITY noscriptClearClickTitle "ClearClick figyelmeztetések">
 <!ENTITY noscriptClearClickHeader "Kattintás után hamisítványgyanús viselkedés lehetséges!">
-<!ENTITY noscriptClearClickDescription "A NoScript billentyűzet vagy egér kölcsönhatását észlelte egy részlegesen rejtett objektummal. A képre kattintva válthat a gyanús és a tiszta változat között.">
+<!ENTITY noscriptClearClickDescription "A NoScriptMinus billentyűzet vagy egér kölcsönhatását észlelte egy részlegesen rejtett objektummal. A képre kattintva válthat a gyanús és a tiszta változat között.">
 <!ENTITY noscriptClearClickOpt "ClearClick védelem a">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

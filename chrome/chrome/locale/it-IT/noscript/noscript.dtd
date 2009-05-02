@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Opzioni…">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "Opzioni NoScript">
-<!ENTITY noscriptAbout "Informazioni su NoScript…">
+<!ENTITY noscriptOptionsLong "Opzioni NoScriptMinus">
+<!ENTITY noscriptAbout "Informazioni su NoScriptMinus…">
 <!ENTITY noscriptPermissionsText "Qui si possono indicare i siti per i quali l&apos;esecuzione degli script è consentita. Digitare l&apos;indirizzo o il dominio (es. &quot;http://www.sito.com&quot; oppure &quot;sito.com&quot;)  e fare clic su Permetti.">
 <!ENTITY noscriptWebAddress "Indirizzo del sito:">
 <!ENTITY noscriptAllow "Permetti">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Nascondi gli elementi &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Mostra l&apos;elemento &lt;NOSCRIPT&gt; che segue un elemento &lt;SCRIPT&gt; bloccato">
 <!ENTITY noscriptAutoAllowTopLevel "Permetti temporaneamente il sito principale in automatico">
-<!ENTITY noscriptDescription "Protezione aggiuntiva per Firefox: NoScript consente l&apos;esecuzione di JavaScript, di Java (e, opzionalmente, degli altri plugin) solo per domini fidati di tua scelta (es. la tua banca online). Questo blocco preventivo basato su whitelist impedisce lo sfruttamento di vulnerabiltà della sicurezza (sia note che  addirittura ancora sconosciute!) li esperti confermeranno: Firefox è davvero più sicuro con NoScript :-)">
+<!ENTITY noscriptDescription "Protezione aggiuntiva per Firefox: NoScriptMinus consente l&apos;esecuzione di JavaScript, di Java (e, opzionalmente, degli altri plugin) solo per domini fidati di tua scelta (es. la tua banca online). Questo blocco preventivo basato su whitelist impedisce lo sfruttamento di vulnerabiltà della sicurezza (sia note che  addirittura ancora sconosciute!) li esperti confermeranno: Firefox è davvero più sicuro con NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Blocca gli scanner basati su CSS">
 <!ENTITY noscriptOptFilterXGet "Filtra le richieste sospette di XSS provenienti da siti non fidati">
 <!ENTITY noscriptOptFilterXPost "Neutralizza le richieste POST (upload) sospette di XSS provenienti da siti non fidati">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignora i cookie non sicuri creati in HTTPS dai seguenti siti:">
 <!ENTITY noscriptClearClickTitle "Avviso di ClearClick">
 <!ENTITY noscriptClearClickHeader "Possibile tentativo di &quot;clickjacking&quot; o camuffamento">
-<!ENTITY noscriptClearClickDescription "NoScript ha intercettato un&apos;interazione del mouse o della tastiera con un elemento parzialmente nascosto. Cliccare sull&apos;immagine sotto per confrontare la versione ostruita con quella svelata.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus ha intercettato un&apos;interazione del mouse o della tastiera con un elemento parzialmente nascosto. Cliccare sull&apos;immagine sotto per confrontare la versione ostruita con quella svelata.">
 <!ENTITY noscriptClearClickOpt "Abilita la protezione ClearClick sulle pagine…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

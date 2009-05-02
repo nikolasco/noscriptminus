@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "أهمل الكعكات غير الآمنة عبر اتصال آمن للمواقع التالية:">
 <!ENTITY noscriptClearClickTitle "امسح التحذيؤ">
 <!ENTITY noscriptClearClickHeader "Potential Clickjacking / UI Redressing Attempt!">
-<!ENTITY noscriptClearClickDescription "NoScript intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
 <!ENTITY noscriptClearClickOpt "ارفع الحماية عن الصفحات…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Seçenekler">
 <!ENTITY noscriptOptions.accesskey "S">
-<!ENTITY noscriptOptionsLong "NoScript Seçenekleri">
-<!ENTITY noscriptAbout "NoScript Hakkında">
+<!ENTITY noscriptOptionsLong "NoScriptMinus Seçenekleri">
+<!ENTITY noscriptAbout "NoScriptMinus Hakkında">
 <!ENTITY noscriptPermissionsText "Hangi web sayfalarında JavaScript&apos;e izni vereceğinizi kolayca seçebilirsiniz. Lütfen adresi tam olarak girin ve &apos;İzin ver&apos; düğmesine tıklayarak sayfanın JavaScript kullanmasına izin verin.">
 <!ENTITY noscriptWebAddress "Site adresi:">
 <!ENTITY noscriptAllow "İzin ver">
@@ -18,7 +18,7 @@
 <!ENTITY noscriptGeneral "Genel">
 <!ENTITY noscriptAppearance "Görünüm">
 <!ENTITY noscriptShow "Göster…">
-<!ENTITY noscriptCtxMenu "NoScript Menüsü">
+<!ENTITY noscriptCtxMenu "NoScriptMinus Menüsü">
 <!ENTITY noscriptStatusIcon "Durum çubugunda ikon olarak">
 <!ENTITY noscriptFullAddr "Tam adres (http://www.noscript.net)">
 <!ENTITY noscriptFullDom "Tam alanadı (www.noscript.net)">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "İzinler">
 <!ENTITY noscriptRefresh "Tazele">
 <!ENTITY noscriptNotifications "Uyarılar">
-<!ENTITY noscriptToolbarToggle "Araç çubuğundaki NoScript düğmesine sol tıklayarak sitenin erişim haklarını değiştirebilirsiniz.">
+<!ENTITY noscriptToolbarToggle "Araç çubuğundaki NoScriptMinus düğmesine sol tıklayarak sitenin erişim haklarını değiştirebilirsiniz.">
 <!ENTITY noscriptTrusted "Güvenli">
 <!ENTITY noscriptUntrusted "Güvensiz">
 <!ENTITY noscriptUnknown "Bilinmiyor">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "&lt;NOSCRIPT&gt; öğelerini sakla">
 <!ENTITY noscriptNselForce "&lt;SCRIPT&gt;&apos;den sonra oluşan &lt;NOSCRIPT&gt; öğelerini göster">
 <!ENTITY noscriptAutoAllowTopLevel "Varsayılan olarak aktif sitelere geçici izin verilir">
-<!ENTITY noscriptDescription "Firefox&apos;unuz için ekstra güvenlik: NoScript seçiminize göre, sadece izin verdiğiniz sitelerde Java (ve diğer eklentilere) izin verebilir. Bu Beyazliste temelli öngörmeli engelleme tekniği güvenlik açıklarını(bilinen ve bilinmeyen) kapatmaya yararken işlevsellik kaybına neden olmaz… Uzmanlar katılacaklardır: Firefox NoScript ile birlikte daha güvenli :-)">
+<!ENTITY noscriptDescription "Firefox&apos;unuz için ekstra güvenlik: NoScriptMinus seçiminize göre, sadece izin verdiğiniz sitelerde Java (ve diğer eklentilere) izin verebilir. Bu Beyazliste temelli öngörmeli engelleme tekniği güvenlik açıklarını(bilinen ve bilinmeyen) kapatmaya yararken işlevsellik kaybına neden olmaz… Uzmanlar katılacaklardır: Firefox NoScriptMinus ile birlikte daha güvenli :-)">
 <!ENTITY noscriptOptBlockCssScanners "CSS-temelli tarayıcıları engelle">
 <!ENTITY noscriptOptFilterXGet "Çapraz-site şüpeli isteklerini temizle">
 <!ENTITY noscriptOptFilterXPost "Çapraz-site POST isteklerini GET&apos;e çevir">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Guvensiz HTTPS uzerinden gonderilen cerezleri bu siteler icin yoksay:">
 <!ENTITY noscriptClearClickTitle "TemizTik Uyarisi">
 <!ENTITY noscriptClearClickHeader "Potansiyel TiklamaHilesi/YenidenAdresleme Denemesi">
-<!ENTITY noscriptClearClickDescription "NoScript kismen gizlenmis olan bir element ile fare veya klavyenin etkilesimini engelledi. Engellenmis ve temiz versiyonu arasinda gecis yapmak icin ustteki resme tiklayin.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus kismen gizlenmis olan bir element ile fare veya klavyenin etkilesimini engelledi. Engellenmis ve temiz versiyonu arasinda gecis yapmak icin ustteki resme tiklayin.">
 <!ENTITY noscriptClearClickOpt "TemizTik korumasi yap...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

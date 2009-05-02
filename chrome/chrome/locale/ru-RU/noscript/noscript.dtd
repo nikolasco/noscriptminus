@@ -1,6 +1,6 @@
 <!ENTITY noscriptOptions "Настройки…">
 <!ENTITY noscriptOptions.accesskey "а">
-<!ENTITY noscriptOptionsLong "Настройки NoScript">
+<!ENTITY noscriptOptionsLong "Настройки NoScriptMinus">
 <!ENTITY noscriptAbout "О расширении">
 <!ENTITY noscriptPermissionsText "Вы можете устанавливать каким веб-сайтам будет разрешено выполнять код JavaScript. Введите адрес или домен (например «http://www.site.com» или «site.com») сайта которому вы желаете разрешить исполнение JavaScript в текстовом поле ниже, а затем нажмите «Разрешить».">
 <!ENTITY noscriptWebAddress "Адрес веб-сайта:">
@@ -17,7 +17,7 @@
 <!ENTITY noscriptAutoReload "Автоматически обновлять зависимые страницы при изменении правил">
 <!ENTITY noscriptGeneral "Основные">
 <!ENTITY noscriptAppearance "Внешний вид">
-<!ENTITY noscriptShow "Отображать следующие элементы NoScript…">
+<!ENTITY noscriptShow "Отображать следующие элементы NoScriptMinus…">
 <!ENTITY noscriptCtxMenu "Пункт в контекстном меню">
 <!ENTITY noscriptStatusIcon "Значок в строке состояния">
 <!ENTITY noscriptFullAddr "Полные адреса (http://www.noscript.net)">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Разрешения">
 <!ENTITY noscriptRefresh "Обновить">
 <!ENTITY noscriptNotifications "Уведомления">
-<!ENTITY noscriptToolbarToggle "Нажатием на значке NoScript переключать разрешения для всего сайта">
+<!ENTITY noscriptToolbarToggle "Нажатием на значке NoScriptMinus переключать разрешения для всего сайта">
 <!ENTITY noscriptTrusted "Доверенные">
 <!ENTITY noscriptUntrusted "Недоверенные">
 <!ENTITY noscriptUnknown "Неизвестный">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Скрывать элементы &lt;noscript&gt;">
 <!ENTITY noscriptNselForce "Показывать элемент &lt;noscript&gt; который следует за заблокированным &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Временно разрешать базовым доменам 2-го уровня по умолчанию">
-<!ENTITY noscriptDescription "Экстра защита для Firefox: NoScript позволяет разрешать исполнение JavaScript, Java (и других плагинов) только доменам, которым доверяете (например, ваш веб-сайт). Белый список, основанный на принципе упреждающего блокирования, позволяет предотвратить использование уязвимостей (известных и ещё неизвестных!) без потери функциональности… Эксперты соглашаются: Firefox действительно безопаснее с NoScript :-)">
+<!ENTITY noscriptDescription "Экстра защита для Firefox: NoScriptMinus позволяет разрешать исполнение JavaScript, Java (и других плагинов) только доменам, которым доверяете (например, ваш веб-сайт). Белый список, основанный на принципе упреждающего блокирования, позволяет предотвратить использование уязвимостей (известных и ещё неизвестных!) без потери функциональности… Эксперты соглашаются: Firefox действительно безопаснее с NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Блокировать CSS-сканеры">
 <!ENTITY noscriptOptFilterXGet "Фильтровать запросы, подозреваемые в XSS">
 <!ENTITY noscriptOptFilterXPost "Заменять XSS POST-запросы на GET-запросы без данных">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Игнорировать небезопасные cookies устанавливаемые через HTTPS со следующих сайтов:">
 <!ENTITY noscriptClearClickTitle "Предупреждения ClearClick">
 <!ENTITY noscriptClearClickHeader "Возможно Clickjacking / Попытка изменения UI">
-<!ENTITY noscriptClearClickDescription "NoScript пресёк выполнение операции с частично скрытым элементом. Нажмите на изображения чтобы увидеть разницу.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus пресёк выполнение операции с частично скрытым элементом. Нажмите на изображения чтобы увидеть разницу.">
 <!ENTITY noscriptClearClickOpt "ClearClick-защита на страницах...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

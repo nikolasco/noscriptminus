@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Indstillinger…">
 <!ENTITY noscriptOptions.accesskey "I">
-<!ENTITY noscriptOptionsLong "NoScript Indstillinger">
-<!ENTITY noscriptAbout "Om NoScript">
+<!ENTITY noscriptOptionsLong "NoScriptMinus Indstillinger">
+<!ENTITY noscriptAbout "Om NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Du kan angive hvilke websteder der må udføre scripts. Indtast adresse eller domæne (f.eks. &quot;http://www.site.com&quot; eller &quot;site.com&quot;) på det websted du ønsker at tillade og klik på Tillad.">
 <!ENTITY noscriptWebAddress "Webstedets adresse:">
 <!ENTITY noscriptAllow "Tillad">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Tilladelser">
 <!ENTITY noscriptRefresh "Genindlæs">
 <!ENTITY noscriptNotifications "Beskeder">
-<!ENTITY noscriptToolbarToggle "Venstreklik på NoScript knappen slår tilladelser for nuværende topniveau-websted til/fra">
+<!ENTITY noscriptToolbarToggle "Venstreklik på NoScriptMinus knappen slår tilladelser for nuværende topniveau-websted til/fra">
 <!ENTITY noscriptTrusted "Betroet">
 <!ENTITY noscriptUntrusted "Ubetroet">
 <!ENTITY noscriptUnknown "Ukendt">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Gem &lt;NOSCRIPT&gt; elementer">
 <!ENTITY noscriptNselForce "Vis &lt;NOSCRIPT&gt; elementet som følger et blokeret &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Midlertidig tillad topniveau-websteder som standard">
-<!ENTITY noscriptDescription "Ekstra beskyttelse af din Firefox: NoScript tillader kun JavaScript, Java (og andre plugins) fra betroede domæner valgt af dig (f.eks. din home-banking hjemmeside). Denne whitelist-baserede forebyggende metode forhindrer udnyttelse af sikkerhedshuller (såvel kendte som ukendte!) uden tab af funktionalitet… Eksperter er enige: Firefox er mere sikker med NoScript :-)">
+<!ENTITY noscriptDescription "Ekstra beskyttelse af din Firefox: NoScriptMinus tillader kun JavaScript, Java (og andre plugins) fra betroede domæner valgt af dig (f.eks. din home-banking hjemmeside). Denne whitelist-baserede forebyggende metode forhindrer udnyttelse af sikkerhedshuller (såvel kendte som ukendte!) uden tab af funktionalitet… Eksperter er enige: Firefox er mere sikker med NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Bloker CSS-baserede skannere">
 <!ENTITY noscriptOptFilterXGet "Rens mistænkelige cross-site forespørgsler">
 <!ENTITY noscriptOptFilterXPost "Omdan cross-site POST-forespørgsler til GET-forespørgsler uden data">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignorer usikre cookies sat over HTTPS af de følgende websteder:">
 <!ENTITY noscriptClearClickTitle "ClearClick advarsel">
 <!ENTITY noscriptClearClickHeader "Potentiel klik-kapring/UI Redress forsøg!">
-<!ENTITY noscriptClearClickDescription "NoScript hindrede en muse- eller tastatur-interaktion med et delvist skjult element. Klik på billedet nedenunder for, at veksle mellem den blokerede og den frie version.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus hindrede en muse- eller tastatur-interaktion med et delvist skjult element. Klik på billedet nedenunder for, at veksle mellem den blokerede og den frie version.">
 <!ENTITY noscriptClearClickOpt "ClearClick-beskyttelse på sider markeret som...">
 <!ENTITY noscriptClearClickReport "Rapport">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "Dette indhold kan ikke vises i en ramme">
 <!ENTITY noscriptFrameOptErr.desc "For at beskytte din sikkerhed, tillader udgiveren af dette indhold ikke, at det vises i en ramme.">
 <!ENTITY noscriptFrameOptErr.link "Klik her for at åbne indholdet i et nyt vindue">
-<!ENTITY noscriptBookmarkSync "Backup NoScript indstillinger i et bogmærke for nem synkronisering">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus indstillinger i et bogmærke for nem synkronisering">

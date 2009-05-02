@@ -1,4 +1,4 @@
-pref("extensions.{73a6fe31-595d-460b-a920-fcc0f8843232}.description", "chrome://noscript/locale/about.properties");
+pref("extensions.{ac11bd66-2836-4859-a4f3-7b28b273500e}.description", "chrome://noscript/locale/about.properties");
 pref("noscript.autoReload", true);
 pref("noscript.autoReload.global", true);
 pref("noscript.autoReload.allTabs", true);

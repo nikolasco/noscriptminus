@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Options...">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "NoScript Options">
-<!ENTITY noscriptAbout "About NoScript">
+<!ENTITY noscriptOptionsLong "NoScriptMinus Options">
+<!ENTITY noscriptAbout "About NoScriptMinus">
 <!ENTITY noscriptPermissionsText "You can specify which web sites are allowed to execute scripts. Type the address or the domain (e.g. &quot;http://www.site.com&quot; or &quot;site.com&quot;) of the site you want to allow and then click Allow.">
 <!ENTITY noscriptWebAddress "Address of web site:">
 <!ENTITY noscriptAllow "Allow">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Permissions">
 <!ENTITY noscriptRefresh "Refresh">
 <!ENTITY noscriptNotifications "Notifications">
-<!ENTITY noscriptToolbarToggle "Left clicking on NoScript toolbar button toggles permissions for current top-level site">
+<!ENTITY noscriptToolbarToggle "Left clicking on NoScriptMinus toolbar button toggles permissions for current top-level site">
 <!ENTITY noscriptTrusted "Trusted">
 <!ENTITY noscriptUntrusted "Untrusted">
 <!ENTITY noscriptUnknown "Unknwon">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Hide &lt;NOSCRIPT&gt; elements">
 <!ENTITY noscriptNselForce "Show the &lt;NOSCRIPT&gt; element which follows a blocked &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Temporarily allow top-level sites by default">
-<!ENTITY noscriptDescription "Extra protection for your Firefox: NoScript allows JavaScript, Java (and other plugins) only for trusted domains of your choice (e.g. your home-banking web site). This whitelist based pre-emptive blocking approach prevents exploitation of security vulnerabilities (known and even unknown!) with no loss of functionality... Experts will agree: Firefox is really safer with NoScript :-)">
+<!ENTITY noscriptDescription "Extra protection for your Firefox: NoScriptMinus allows JavaScript, Java (and other plugins) only for trusted domains of your choice (e.g. your home-banking web site). This whitelist based pre-emptive blocking approach prevents exploitation of security vulnerabilities (known and even unknown!) with no loss of functionality... Experts will agree: Firefox is really safer with NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Block CSS-based scanners">
 <!ENTITY noscriptOptFilterXGet "Sanitize cross-site suspicious requests">
 <!ENTITY noscriptOptFilterXPost "Turn cross-site POST requests into data-less GET requests">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignore unsafe cookies set over HTTPS by the following sites:">
 <!ENTITY noscriptClearClickTitle "ClearClick Warning">
 <!ENTITY noscriptClearClickHeader "Potential Clickjacking / UI Redressing Attempt!">
-<!ENTITY noscriptClearClickDescription "NoScript intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
 <!ENTITY noscriptClearClickOpt "ClearClick protection on pages…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

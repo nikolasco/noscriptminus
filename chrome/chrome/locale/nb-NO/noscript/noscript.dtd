@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Innstillinger...">
 <!ENTITY noscriptOptions.accesskey "I">
-<!ENTITY noscriptOptionsLong "NoScript-innstillinger">
-<!ENTITY noscriptAbout "Om NoScript">
+<!ENTITY noscriptOptionsLong "NoScriptMinus-innstillinger">
+<!ENTITY noscriptAbout "Om NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Du kan angi hvilke nettsted som har tillatelse til å bruke JavaScript. Skriv inn adressen eller domenenavnet (f.eks. &quot;http://www.nettsted.com&quot; eller &quot;nettsted.com&quot;) av nettstedet du vil tillate, og trykk Tillat.">
 <!ENTITY noscriptWebAddress "Nettstedets adresse:">
 <!ENTITY noscriptAllow "Tillat">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Tillatelser">
 <!ENTITY noscriptRefresh "Oppdater">
 <!ENTITY noscriptNotifications "Notifikasjoner">
-<!ENTITY noscriptToolbarToggle "Venstreklikk på NoScript-knappen slår tillatelsen for nåværende toppside av/på">
+<!ENTITY noscriptToolbarToggle "Venstreklikk på NoScriptMinus-knappen slår tillatelsen for nåværende toppside av/på">
 <!ENTITY noscriptTrusted "Pålitelig">
 <!ENTITY noscriptUntrusted "Upålitelig">
 <!ENTITY noscriptUnknown "Ukjent">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignorer usikre informasjonskapsler sent over HTTPS av følgende sider:">
 <!ENTITY noscriptClearClickTitle "ClearKlikk Advarsel">
 <!ENTITY noscriptClearClickHeader "Potensiell Clickjacking / UI Redressing Forsøk!">
-<!ENTITY noscriptClearClickDescription "NoScript avskjærte en mus, eller tastatur samspill med delvis gjemt element. Klikk på bildet ovenfor for å bytte mellom den sperrede og den rensede versjonen.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus avskjærte en mus, eller tastatur samspill med delvis gjemt element. Klikk på bildet ovenfor for å bytte mellom den sperrede og den rensede versjonen.">
 <!ENTITY noscriptClearClickOpt "ClearClick beskyttelse på sidene…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

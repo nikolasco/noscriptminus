@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "選項…">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "NoScript 選項">
-<!ENTITY noscriptAbout "關於 NoScript">
+<!ENTITY noscriptOptionsLong "NoScriptMinus 選項">
+<!ENTITY noscriptAbout "關於 NoScriptMinus">
 <!ENTITY noscriptPermissionsText "您可以指定允許執行 JavaScript 的網站。輸入您要允許的網址或網域（例如 &quot;http://www.site.com&quot; 或 &quot;site.com&quot;），然後按下允許.">
 <!ENTITY noscriptWebAddress "網址：">
 <!ENTITY noscriptAllow "允許">
@@ -63,13 +63,13 @@
 <!ENTITY noscriptAllowPing "允許 &lt;A PING…&gt;">
 <!ENTITY noscriptAllowLocalLinks "允許本機連結">
 <!ENTITY noscriptForbidPing "禁止 &lt;A PING…&gt;">
-<!ENTITY noscriptForbidMetaRefresh "禁止 &lt;NoScript&gt; 元素中的 META 重新導向">
+<!ENTITY noscriptForbidMetaRefresh "禁止 &lt;NoScriptMinus&gt; 元素中的 META 重新導向">
 <!ENTITY noscriptForbidMetaRefresh.accesskey "R">
 <!ENTITY noscriptWhitelist "白名單">
 <!ENTITY noscriptPermissions "許可">
 <!ENTITY noscriptRefresh "重新整理">
 <!ENTITY noscriptNotifications "通知">
-<!ENTITY noscriptToolbarToggle "在 NoScript 工具列按鈕上按左鍵來固定目前第一層網域的許可">
+<!ENTITY noscriptToolbarToggle "在 NoScriptMinus 工具列按鈕上按左鍵來固定目前第一層網域的許可">
 <!ENTITY noscriptTrusted "信任的">
 <!ENTITY noscriptUntrusted "不信任的">
 <!ENTITY noscriptUnknown "未知">
@@ -81,10 +81,10 @@
 <!ENTITY noscriptPolicies "原則">
 <!ENTITY noscriptDefaultPolicies "預設原則">
 <!ENTITY noscriptSitePolicies "網站特殊原則">
-<!ENTITY noscriptNselNever "隱藏 &lt;NoScript&gt; 元素">
-<!ENTITY noscriptNselForce "顯示被封鎖的 &lt;Script&gt; 的 &lt;NoScript&gt; 元素">
+<!ENTITY noscriptNselNever "隱藏 &lt;NoScriptMinus&gt; 元素">
+<!ENTITY noscriptNselForce "顯示被封鎖的 &lt;Script&gt; 的 &lt;NoScriptMinus&gt; 元素">
 <!ENTITY noscriptAutoAllowTopLevel "預設暫時允許第一層網域">
-<!ENTITY noscriptDescription "為您的 Firefox 提供額外保護: NoScript 只允許您選擇的信任網域 (例如您的家庭金融網站) 上的 JavaScript, Java (和其他的外掛). 這份白名單基於預先處理來防止安全弱點 (已知和未知的!) 被利用，且不損失功能… 專家們都同意: Firefox 加上 NoScript 真的是更加安全 :-)">
+<!ENTITY noscriptDescription "為您的 Firefox 提供額外保護: NoScriptMinus 只允許您選擇的信任網域 (例如您的家庭金融網站) 上的 JavaScript, Java (和其他的外掛). 這份白名單基於預先處理來防止安全弱點 (已知和未知的!) 被利用，且不損失功能… 專家們都同意: Firefox 加上 NoScriptMinus 真的是更加安全 :-)">
 <!ENTITY noscriptOptBlockCssScanners "封鎖基於 CSS 的掃描器">
 <!ENTITY noscriptOptFilterXGet "消除可疑的跨站請除">
 <!ENTITY noscriptOptFilterXPost "轉換跨站 POST 請求為不含數據的 GET 請求">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "忽略下面網站不安全的Cookies藉由HTTPS:">
 <!ENTITY noscriptClearClickTitle "解除點選警告">
 <!ENTITY noscriptClearClickHeader "潛在的點選劫持/使用者介面補償企圖攻擊!">
-<!ENTITY noscriptClearClickDescription "NoScript 攔截一個滑鼠或鍵盤操作的隱藏元素. 點選圖片將會進行對上述過程之間的阻止和解除改變.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus 攔截一個滑鼠或鍵盤操作的隱藏元素. 點選圖片將會進行對上述過程之間的阻止和解除改變.">
 <!ENTITY noscriptClearClickOpt "解除頁面上的點選保護...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

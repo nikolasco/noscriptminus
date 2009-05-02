@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Opciones…">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "Opciones de NoScript">
-<!ENTITY noscriptAbout "Acerca de NoScript">
+<!ENTITY noscriptOptionsLong "Opciones de NoScriptMinus">
+<!ENTITY noscriptAbout "Acerca de NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Puede especificar a cuáles sitios web le permitirá ejecutar scripts. Escriba la dirección o el dominio (por ejemplo, &quot;http://www.sitio.com&quot; o &quot;sitio.com&quot;) del sitio y luego haga clic en Permitir.">
 <!ENTITY noscriptWebAddress "Dirección del sitio web:">
 <!ENTITY noscriptAllow "Permitir">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Permisos">
 <!ENTITY noscriptRefresh "Actualizar">
 <!ENTITY noscriptNotifications "Notificaciones">
-<!ENTITY noscriptToolbarToggle "Clic en botón NoScript de barra de navegación alterna permisos para actual máximo nivel del sitio">
+<!ENTITY noscriptToolbarToggle "Clic en botón NoScriptMinus de barra de navegación alterna permisos para actual máximo nivel del sitio">
 <!ENTITY noscriptTrusted "Fiable">
 <!ENTITY noscriptUntrusted "No fiable">
 <!ENTITY noscriptUnknown "Desconocida">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Ocultar los elementos &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Mostrar el elemento &lt;NOSCRIPT&gt; que sigue a un &lt;SCRIPT&gt; bloqueado">
 <!ENTITY noscriptAutoAllowTopLevel "Permitir temporalmente por defecto los sitios de máximo nivel">
-<!ENTITY noscriptDescription "Protección adicional para su Firefox: NoScript permite JavaScript, Java (y otros plugins) sólo para los dominios de confianza que usted elija (por ejemplo, el sitio web de su banco). Este enfoque de bloqueo preventivo basado en una lista blanca evita la explotación de vulnerabilidades de seguridad (conocidas e incluso desconocidas) sin pérdida de funcionalidad… Los expertos estarán de acuerdo: Firefox es realmente más seguro con NoScript :-)">
+<!ENTITY noscriptDescription "Protección adicional para su Firefox: NoScriptMinus permite JavaScript, Java (y otros plugins) sólo para los dominios de confianza que usted elija (por ejemplo, el sitio web de su banco). Este enfoque de bloqueo preventivo basado en una lista blanca evita la explotación de vulnerabilidades de seguridad (conocidas e incluso desconocidas) sin pérdida de funcionalidad… Los expertos estarán de acuerdo: Firefox es realmente más seguro con NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Bloquear scanners basados en CSS">
 <!ENTITY noscriptOptFilterXGet "Depurar peticiones cross-site sospechosas">
 <!ENTITY noscriptOptFilterXPost "Convertir peticiones POST cross-site en peticiones GET sin datos">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignore unsafe cookies set over HTTPS by the following sites:">
 <!ENTITY noscriptClearClickTitle "ClearClick Warning">
 <!ENTITY noscriptClearClickHeader "Potential Clickjacking / UI Redressing Attempt!">
-<!ENTITY noscriptClearClickDescription "NoScript intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
 <!ENTITY noscriptClearClickOpt "ClearClick protection on pages…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

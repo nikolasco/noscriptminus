@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Options">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "Options de NoScript">
-<!ENTITY noscriptAbout "À propos de NoScript">
+<!ENTITY noscriptOptionsLong "Options de NoScriptMinus">
+<!ENTITY noscriptAbout "À propos de NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Il est possible de spécifier quels sites Web sont autorisés à exécuter des scripts. Saisissez l&apos;adresse exacte du site que vous désirez autoriser puis cliquez sur Autoriser.">
 <!ENTITY noscriptWebAddress "Adresse du site Web :">
 <!ENTITY noscriptAllow "Autoriser">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Permissions">
 <!ENTITY noscriptRefresh "Actualiser">
 <!ENTITY noscriptNotifications "Notifications">
-<!ENTITY noscriptToolbarToggle "Clic gauche sur le bouton de barre d&apos;outils NoScript inverse les permissions pour le site de premier niveau en cours">
+<!ENTITY noscriptToolbarToggle "Clic gauche sur le bouton de barre d&apos;outils NoScriptMinus inverse les permissions pour le site de premier niveau en cours">
 <!ENTITY noscriptTrusted "Fiable">
 <!ENTITY noscriptUntrusted "Non fiable">
 <!ENTITY noscriptUnknown "Inconnu">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Cacher les éléments &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Afficher l&apos;élément &lt;NOSCRIPT&gt; qui suit un &lt;SCRIPT&gt; bloqué">
 <!ENTITY noscriptAutoAllowTopLevel "Autoriser temporairement les sites de premier niveau par défaut">
-<!ENTITY noscriptDescription "Protection supplémentaire pour votre Firefox : NoScript ne permet l&apos;exécution de scripts JavaScript que sur les domaines de confiance de votre choix (p.ex. le site de votre banque). Ce système de blocage préventif de scripts basé sur une liste blanche empêche l&apos;exploitation de failles de sécurité (connues et même inconnues) sans perte de fonctionnalités… Les experts en conviendront : Firefox est réellement plus sûr avec NoScript :-)">
+<!ENTITY noscriptDescription "Protection supplémentaire pour votre Firefox : NoScriptMinus ne permet l&apos;exécution de scripts JavaScript que sur les domaines de confiance de votre choix (p.ex. le site de votre banque). Ce système de blocage préventif de scripts basé sur une liste blanche empêche l&apos;exploitation de failles de sécurité (connues et même inconnues) sans perte de fonctionnalités… Les experts en conviendront : Firefox est réellement plus sûr avec NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Bloquer les scanners basés sur des CSS">
 <!ENTITY noscriptOptFilterXGet "Nettoyer les requêtes suspicieuses entre sites">
 <!ENTITY noscriptOptFilterXPost "Transformer les requêtes POST entre sites en requêtes GET sans données">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignorer les cookies non sûrs définis par HTTPS pour les sites suivants :">
 <!ENTITY noscriptClearClickTitle "Avertissement ClearClick">
 <!ENTITY noscriptClearClickHeader "Clickjacking potentiel / rétablissement de tentative d&apos;UI">
-<!ENTITY noscriptClearClickDescription "NoScript a intercepté une interaction de la souris ou du clavier avec une élément partiellement caché. Cliquez sur l&apos;image en-dessus pour passer de la version cachée à la version visible.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus a intercepté une interaction de la souris ou du clavier avec une élément partiellement caché. Cliquez sur l&apos;image en-dessus pour passer de la version cachée à la version visible.">
 <!ENTITY noscriptClearClickOpt "Protection ClearClick sur les pages…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Подешавања...">
 <!ENTITY noscriptOptions.accesskey "П">
-<!ENTITY noscriptOptionsLong "NoScript подешавања">
-<!ENTITY noscriptAbout "О NoScript-у">
+<!ENTITY noscriptOptionsLong "NoScriptMinus подешавања">
+<!ENTITY noscriptAbout "О NoScriptMinus-у">
 <!ENTITY noscriptPermissionsText "Можете да наведете којим веб странама је дозвољено да извршавају скриптове. Унесите адресу или домен (нпр. &quot;http://www.site.com&quot; или &quot;site.com&quot;) стране којој желите да дате дозволу и онда кликните Дозволи.">
 <!ENTITY noscriptWebAddress "Адреса веб стране:">
 <!ENTITY noscriptAllow "Дозволи">
@@ -67,7 +67,7 @@
 <!ENTITY noscriptPermissions "Дозволе">
 <!ENTITY noscriptRefresh "Освежи">
 <!ENTITY noscriptNotifications "Обавештења">
-<!ENTITY noscriptToolbarToggle "Леви клик на NoScript дугме у линији алата укључује/искључује дозволе top-level стране">
+<!ENTITY noscriptToolbarToggle "Леви клик на NoScriptMinus дугме у линији алата укључује/искључује дозволе top-level стране">
 <!ENTITY noscriptTrusted "Којима се верује">
 <!ENTITY noscriptUntrusted "Којима се не верује">
 <!ENTITY noscriptUnknown "Непознато">
@@ -82,7 +82,7 @@
 <!ENTITY noscriptNselNever "Сакриј &lt;NOSCRIPT&gt; елементе">
 <!ENTITY noscriptNselForce "Прикажи &lt;NOSCRIPT&gt; који се налази иза блокираног &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Привремено дозволи top-level стране као подразумевано">
-<!ENTITY noscriptDescription "Додатна заштита за ваш Firefox: NoScript дозвољава JavaScript, Java (и остале додатке) само доменима којима се верује по вашем избору (нпр. Ваша е-banking веб страна). Овај превентивни приступ блокирања базиран на белој листи спречава искоришћавање безбедносних пропуста (познатих и чак и непознатих!) без икаквог губитка функционалности... Експерти ће се сложити: Firefox је заиста безбеднији са NoScript-ом :-)">
+<!ENTITY noscriptDescription "Додатна заштита за ваш Firefox: NoScriptMinus дозвољава JavaScript, Java (и остале додатке) само доменима којима се верује по вашем избору (нпр. Ваша е-banking веб страна). Овај превентивни приступ блокирања базиран на белој листи спречава искоришћавање безбедносних пропуста (познатих и чак и непознатих!) без икаквог губитка функционалности... Експерти ће се сложити: Firefox је заиста безбеднији са NoScriptMinus-ом :-)">
 <!ENTITY noscriptOptBlockCssScanners "Блокирај CSS-базиране скенере">
 <!ENTITY noscriptOptFilterXGet "Очисти сумњиве cross-site захтеве">
 <!ENTITY noscriptOptFilterXPost "Претвори cross-site POST захтеве у GET захтеве без података">

@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Einstellungen...">
 <!ENTITY noscriptOptions.accesskey "E">
-<!ENTITY noscriptOptionsLong "NoScript - Einstellungen">
-<!ENTITY noscriptAbout "Über NoScript...">
+<!ENTITY noscriptOptionsLong "NoScriptMinus - Einstellungen">
+<!ENTITY noscriptAbout "Über NoScriptMinus...">
 <!ENTITY noscriptPermissionsText "Sie können festlegen, welchen Websites Sie das Ausführen von Skripten erlauben möchten. Geben Sie bitte die exakte Adresse oder die Domain der Website ein (z.B. &quot;http://www.site.com&quot; oder &quot;site.com&quot;), für die Sie dies zulassen möchten, und klicken Sie dann auf &quot;Erlauben&quot;.">
 <!ENTITY noscriptWebAddress "Adresse der Website:">
 <!ENTITY noscriptAllow "Erlauben">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "&lt;NOSCRIPT&gt;-Elemente ausblenden">
 <!ENTITY noscriptNselForce "&lt;NOSCRIPT&gt;-Element, das einem blockierten &lt;SCRIPT&gt; folgt, anzeigen">
 <!ENTITY noscriptAutoAllowTopLevel "Jeweils aktuelle Top-Level-Site temporär erlauben">
-<!ENTITY noscriptDescription "Zusätzlicher Schutz für Ihren Browser: NoScript erlaubt das Ausführen von JavaScript, Java (und anderen Plugins) nur bei vertrauenswürdigen Domains Ihrer Wahl (z.B. Ihrer Homebanking-Website). Der auf einer Positivliste basierende präventive Ansatz zum Blockieren von Skripten verhindert das Ausnutzen von (bekannten und unbekannten!) Sicherheitslücken ohne Verlust an Funktionalität.">
+<!ENTITY noscriptDescription "Zusätzlicher Schutz für Ihren Browser: NoScriptMinus erlaubt das Ausführen von JavaScript, Java (und anderen Plugins) nur bei vertrauenswürdigen Domains Ihrer Wahl (z.B. Ihrer Homebanking-Website). Der auf einer Positivliste basierende präventive Ansatz zum Blockieren von Skripten verhindert das Ausnutzen von (bekannten und unbekannten!) Sicherheitslücken ohne Verlust an Funktionalität.">
 <!ENTITY noscriptOptBlockCssScanners "Auf Cross-Site Scripting basierende Scanner blockieren">
 <!ENTITY noscriptOptFilterXGet "Anfragen bei Verdacht auf Cross-Site Scripting bereinigen">
 <!ENTITY noscriptOptFilterXPost "Cross-Site-POST-Anfragen in datenlose GET-Anfragen umwandeln">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Unsichere Cookies bei verschlüsselter Verbindung (HTTPS) bei folgenden Adressen ignorieren:">
 <!ENTITY noscriptClearClickTitle "ClearClick-Warnung">
 <!ENTITY noscriptClearClickHeader "Potentielle Clickjacking-Attacke / Versuch einer UI-Umadressierung!">
-<!ENTITY noscriptClearClickDescription "NoScript wehrt ein Maus- oder Tastatur-Eingabe mit einem teilweise versteckten Element ab. Klick auf das Bild oberhalb um zwischen der verdeckten und der klaren Version zu wechseln.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus wehrt ein Maus- oder Tastatur-Eingabe mit einem teilweise versteckten Element ab. Klick auf das Bild oberhalb um zwischen der verdeckten und der klaren Version zu wechseln.">
 <!ENTITY noscriptClearClickOpt "ClearClick-Schutz auf">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

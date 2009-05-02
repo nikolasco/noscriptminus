@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Баптаулары">
 <!ENTITY noscriptOptions.accesskey "Б">
-<!ENTITY noscriptOptionsLong "NoScript баптаулары">
-<!ENTITY noscriptAbout "NoScript туралы...">
+<!ENTITY noscriptOptionsLong "NoScriptMinus баптаулары">
+<!ENTITY noscriptAbout "NoScriptMinus туралы...">
 <!ENTITY noscriptPermissionsText "Қай сайттарға JavaScript орындауға рұқсат екенін көрсете аласыз. Рұқсат етілетін сайттың домен адресін енгізіңіз (мысалы, &quot;http://www.site.com&quot; немесе &quot;site.com&quot;), содан кейін Рұқсат ету басыңыз.">
 <!ENTITY noscriptWebAddress "Веб-сайт адресі:">
 <!ENTITY noscriptAllow "Рұқсат ету">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Рұқсаттар">
 <!ENTITY noscriptRefresh "Жаңарту">
 <!ENTITY noscriptNotifications "Хабарламалар">
-<!ENTITY noscriptToolbarToggle "NoScript таңбашасына шерту арқылы сайт үшін рұқсаттарды ауыстыру">
+<!ENTITY noscriptToolbarToggle "NoScriptMinus таңбашасына шерту арқылы сайт үшін рұқсаттарды ауыстыру">
 <!ENTITY noscriptTrusted "Сенімді">
 <!ENTITY noscriptUntrusted "Сенімсіз">
 <!ENTITY noscriptUnknown "Белгісіз">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "&lt;NOSCRIPT&gt; элементтерін жасыру">
 <!ENTITY noscriptNselForce "Блокталған &lt;SCRIPT&gt; соңынан келген &lt;NOSCRIPT&gt; элементін көрсету">
 <!ENTITY noscriptAutoAllowTopLevel "Уақытша жоғарғы деңгейлі сайттарға рұқсат беру">
-<!ENTITY noscriptDescription "Firefox үшін экстра қорғаныс: NoScript көмегімен сіз JavaScript, Java (және басқа плагиндер) орындалуын тек өзіңіз көрсеткен домендер үшін рұқсат ете аласыз (мысалы, өзіңіздің веб-сайтыңыз). Рұқсат етілген тізім, алдын-ала блоктауға негізделіп, функционалдылыққа әсер етпей-ақ осалдылықтардың алдын алуға көмектеседі (белгілі және белгісіз!)… Мамандар келіседі: NoScript қолдану Firefox жұмысын қауіпсіз етеді:-)">
+<!ENTITY noscriptDescription "Firefox үшін экстра қорғаныс: NoScriptMinus көмегімен сіз JavaScript, Java (және басқа плагиндер) орындалуын тек өзіңіз көрсеткен домендер үшін рұқсат ете аласыз (мысалы, өзіңіздің веб-сайтыңыз). Рұқсат етілген тізім, алдын-ала блоктауға негізделіп, функционалдылыққа әсер етпей-ақ осалдылықтардың алдын алуға көмектеседі (белгілі және белгісіз!)… Мамандар келіседі: NoScriptMinus қолдану Firefox жұмысын қауіпсіз етеді:-)">
 <!ENTITY noscriptOptBlockCssScanners "CSS-негізделген сканерлерді оқшаулау">
 <!ENTITY noscriptOptFilterXGet "CSS сұранымдарын оқшаулау">
 <!ENTITY noscriptOptFilterXPost "Сайт аралық POST сұранымдарын мәліметі жоқ GET сұранымдарына айналдыру">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Келесі сайттардан HTTPS арқылы алынатын қауіпсіз емесе cookies елемеу:">
 <!ENTITY noscriptClearClickTitle "ClearClick ескертулері">
 <!ENTITY noscriptClearClickHeader "Clickjacking мүмкін/UI өзгерту талабы">
-<!ENTITY noscriptClearClickDescription "NoScript жартылай жасырын элементпен әрекетті шектеді. Айырмашылыған көру үшін суреттерге шертіңіз.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus жартылай жасырын элементпен әрекетті шектеді. Айырмашылыған көру үшін суреттерге шертіңіз.">
 <!ENTITY noscriptClearClickOpt "Парақтардағы ClearClick-қорғанысы...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

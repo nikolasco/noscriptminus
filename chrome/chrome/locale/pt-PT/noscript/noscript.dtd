@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Opções">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "Opções do NoScript">
-<!ENTITY noscriptAbout "Sobre o NoScript">
+<!ENTITY noscriptOptionsLong "Opções do NoScriptMinus">
+<!ENTITY noscriptAbout "Sobre o NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Pode especificar os sítios que podem executar scripts. Escreva o endereço ou o domínio (ex: &quot;http://www.sitio.com&quot; ou &quot;sitio.com&quot;) do sítio que deseja permitir e depois pressione em Permitir.">
 <!ENTITY noscriptWebAddress "Endereço:">
 <!ENTITY noscriptAllow "Permitir">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Permissões">
 <!ENTITY noscriptRefresh "Actualizar">
 <!ENTITY noscriptNotifications "Notificações">
-<!ENTITY noscriptToolbarToggle "Clique esquerdo na barra de ferramentas do NoScript altera as permissões para o sítio principal actual">
+<!ENTITY noscriptToolbarToggle "Clique esquerdo na barra de ferramentas do NoScriptMinus altera as permissões para o sítio principal actual">
 <!ENTITY noscriptTrusted "De confiança">
 <!ENTITY noscriptUntrusted "Não é de confiança">
 <!ENTITY noscriptUnknown "Desconhecido">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Ocultar elementos &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Mostrar o elemento &lt;NOSCRIPT&gt; que seguiu um script bloqueado &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Permitir temporariamente todos os sites de alto nível por pré-definição">
-<!ENTITY noscriptDescription "Protecção extra para o seu Firefox: O NoScript permite o uso de JavaScripts, Java (e outros plugins) somente para os domínios de confiança que você seleccionar (como por exemplo no sítio do seu internet banking). Esse bloqueio é baseado numa lista branca que previne a exploração de vulnerabilidades de segurança (conhecidas e  até mesmo as desconhecidas!) sem perda de desempenho... Os especialistas concordam: o Firefox é realmente mais seguro com o NoScript :-)">
+<!ENTITY noscriptDescription "Protecção extra para o seu Firefox: O NoScriptMinus permite o uso de JavaScripts, Java (e outros plugins) somente para os domínios de confiança que você seleccionar (como por exemplo no sítio do seu internet banking). Esse bloqueio é baseado numa lista branca que previne a exploração de vulnerabilidades de segurança (conhecidas e  até mesmo as desconhecidas!) sem perda de desempenho... Os especialistas concordam: o Firefox é realmente mais seguro com o NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Bloquear scanners baseados em CSS">
 <!ENTITY noscriptOptFilterXGet "Desinfectar requerimentos suspeitos via sítio">
 <!ENTITY noscriptOptFilterXPost "Alterar requerimentos perigosos via sítio em requerimentos GET sem dados">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignorar cookies não seguros aplicada sobre HTTPS pelos seguintes sítios:">
 <!ENTITY noscriptClearClickTitle "Limpar aviso com clique">
 <!ENTITY noscriptClearClickHeader "Potencial Clickjacking / Tentativa de mudar UI">
-<!ENTITY noscriptClearClickDescription "O NoScript interceptou uma interacção do rato ou do teclado com um elemento parcialmene oculto. Clique na imagem acima para mudar entre a versão limpa e a obstruída">
+<!ENTITY noscriptClearClickDescription "O NoScriptMinus interceptou uma interacção do rato ou do teclado com um elemento parcialmene oculto. Clique na imagem acima para mudar entre a versão limpa e a obstruída">
 <!ENTITY noscriptClearClickOpt "Limpar aviso com clique nas páginas...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

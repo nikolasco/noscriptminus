@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Opcions...">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "Opcions de NoScript">
-<!ENTITY noscriptAbout "Quant a NoScript">
+<!ENTITY noscriptOptionsLong "Opcions de NoScriptMinus">
+<!ENTITY noscriptAbout "Quant a NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Podeu especificar quins llocs web poden executar seqüències. El tipus d&apos;adreça o el domini (p.ex. &quot;http://www.site.com&quot; o &quot;site.com&quot;) del lloc al qual voleu donar permissos i feu clic a Permet.">
 <!ENTITY noscriptWebAddress "Adreça del lloc web:">
 <!ENTITY noscriptAllow "Permet">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Permissos">
 <!ENTITY noscriptRefresh "Actualitza">
 <!ENTITY noscriptNotifications "Notificacions">
-<!ENTITY noscriptToolbarToggle "El botó esquerre en la barra de tasques de NoScript alterna els permissos per als llocs de nivell alt">
+<!ENTITY noscriptToolbarToggle "El botó esquerre en la barra de tasques de NoScriptMinus alterna els permissos per als llocs de nivell alt">
 <!ENTITY noscriptTrusted "De confiança">
 <!ENTITY noscriptUntrusted "Sense confiança">
 <!ENTITY noscriptUnknown "Desconegut">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Amaga els elements &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Mostra els elements &lt;NOSCRIPT&gt; que segueixen a un &lt;SCRIPT&gt; blocat">
 <!ENTITY noscriptAutoAllowTopLevel "Temporarily allow top-level sites by default">
-<!ENTITY noscriptDescription "Protecció extra per al vostre Firefox: NoScript permet JavaScript, Java (i d&apos;altres connectors) només per a dominis de confiança de la vostra elecció (p.ex. el lloc web del vostre banc). Aquesta llista blanca de bloqueig preventiu prevé l&apos;explotació de vulnerabilitats de seguretat (les que coneixem i les que no!) sense perdre funcionalitat... Els experts hi estan d&apos;acord: Firefox és realment més segur amb NoScript :-)">
+<!ENTITY noscriptDescription "Protecció extra per al vostre Firefox: NoScriptMinus permet JavaScript, Java (i d&apos;altres connectors) només per a dominis de confiança de la vostra elecció (p.ex. el lloc web del vostre banc). Aquesta llista blanca de bloqueig preventiu prevé l&apos;explotació de vulnerabilitats de seguretat (les que coneixem i les que no!) sense perdre funcionalitat... Els experts hi estan d&apos;acord: Firefox és realment més segur amb NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Bloca els escanejos basats en CSS">
 <!ENTITY noscriptOptFilterXGet "Saneja les peticions sospitoses a través d&apos;un lloc">
 <!ENTITY noscriptOptFilterXPost "Transforma les peticions POST a través d&apos;un lloc en peticions GET sense tantes dades">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignorar galetes insegures creades amb HTTPS pels següents llocs:">
 <!ENTITY noscriptClearClickTitle "Advertència ClearClick">
 <!ENTITY noscriptClearClickHeader "Clickjacking Potencial / Intent de corregir UI">
-<!ENTITY noscriptClearClickDescription "NoScript ha interceptat una interacció de ratolí o reclat amb parcialment element ocult. Clica a la imatge superior per passar de la obstrucció a una versió neta.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus ha interceptat una interacció de ratolí o reclat amb parcialment element ocult. Clica a la imatge superior per passar de la obstrucció a una versió neta.">
 <!ENTITY noscriptClearClickOpt "Protecció de ClearClick a les pàgines...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

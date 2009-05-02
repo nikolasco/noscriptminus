@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Alternativ...">
 <!ENTITY noscriptOptions.accesskey "A">
-<!ENTITY noscriptOptionsLong "NoScript-alternativ">
-<!ENTITY noscriptAbout "Om NoScript">
+<!ENTITY noscriptOptionsLong "NoScriptMinus-alternativ">
+<!ENTITY noscriptAbout "Om NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Ange vilka webbplatser som får köra skript. Skriv webbadressen eller domänen (t ex. &quot;http://www.webbplats.se&quot; eller &quot;webbplats.se&quot;) för den webbplats där skript ska tillåtas. Klicka sedan på &quot;Tillåt&quot;.">
 <!ENTITY noscriptWebAddress "Sidans adress:">
 <!ENTITY noscriptAllow "Tillåt">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Behörigheter">
 <!ENTITY noscriptRefresh "Uppdatera">
 <!ENTITY noscriptNotifications "Notifieringar">
-<!ENTITY noscriptToolbarToggle "Vänsterklicka på NoScripts verktygsknapp för att ändra behörighet för aktuell webbsida">
+<!ENTITY noscriptToolbarToggle "Vänsterklicka på NoScriptMinuss verktygsknapp för att ändra behörighet för aktuell webbsida">
 <!ENTITY noscriptTrusted "Betrodd">
 <!ENTITY noscriptUntrusted "Ej betrodd">
 <!ENTITY noscriptUnknown "Okänd">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Dölj &lt;NOSCRIPT&gt; element">
 <!ENTITY noscriptNselForce "Visa &lt;NOSCRIPT&gt; element som följer ett blockerat &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Tillåt top-nivå platser tillfälligt">
-<!ENTITY noscriptDescription "Extra skydd för Firefox: NoScript tillåter JavaScript, Java (och andra tillägg) endast för betrodda domäner du valt (t ex din internetbank). Denna vitlistebaserade förebyggande blockering förhindrar uttnyttjande av säkerhetsproblem (både kända och okända) utan förlust av funktionalitet... Experter är överens: Firefox är verkligen säkrare med NoScript :-)">
+<!ENTITY noscriptDescription "Extra skydd för Firefox: NoScriptMinus tillåter JavaScript, Java (och andra tillägg) endast för betrodda domäner du valt (t ex din internetbank). Denna vitlistebaserade förebyggande blockering förhindrar uttnyttjande av säkerhetsproblem (både kända och okända) utan förlust av funktionalitet... Experter är överens: Firefox är verkligen säkrare med NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Blockera CSS-baserade scanners">
 <!ENTITY noscriptOptFilterXGet "Tvätta misstänkta XSS förfrågningar">
 <!ENTITY noscriptOptFilterXPost "Ändra XSS POST förfrågningar till datalösa GET förfrågningar">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignorera osäkra kakor som skickas över HTTPS för dessa platser:">
 <!ENTITY noscriptClearClickTitle "ClearClick varning">
 <!ENTITY noscriptClearClickHeader "Potentiell Clickjacking /UI redressing försök!">
-<!ENTITY noscriptClearClickDescription "NoScript fångade upp musklick eller tangentbordsklick med ett delvis dolt element. Klicka på bilden ovan för att växla mellan dold och klartext version.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus fångade upp musklick eller tangentbordsklick med ett delvis dolt element. Klicka på bilden ovan för att växla mellan dold och klartext version.">
 <!ENTITY noscriptClearClickOpt "ClearClick skydd på sidor...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

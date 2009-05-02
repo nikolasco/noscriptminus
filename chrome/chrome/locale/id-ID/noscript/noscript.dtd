@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Pilihan...">
 <!ENTITY noscriptOptions.accesskey "P">
-<!ENTITY noscriptOptionsLong "Pilihan NoScript">
-<!ENTITY noscriptAbout "Tentang NoScript...">
+<!ENTITY noscriptOptionsLong "Pilihan NoScriptMinus">
+<!ENTITY noscriptAbout "Tentang NoScriptMinus...">
 <!ENTITY noscriptPermissionsText "Anda dapat menentukan situs web mana yang diijinkan menjalankan naskah. Masukkan alamat atau domain (contoh: &quot;http://www.site.com&quot; atau &quot;site.com&quot;) yang akan diberi ijin kemudian klik Ijinkan.">
 <!ENTITY noscriptWebAddress "Alamat situs web:">
 <!ENTITY noscriptAllow "Ijinkan">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Ijin-ijin">
 <!ENTITY noscriptRefresh "Segarkan">
 <!ENTITY noscriptNotifications "Pemberitahuan">
-<!ENTITY noscriptToolbarToggle "Klik kiri pada toolbar NoScript membalikan">
+<!ENTITY noscriptToolbarToggle "Klik kiri pada toolbar NoScriptMinus membalikan">
 <!ENTITY noscriptTrusted "Terpercaya">
 <!ENTITY noscriptUntrusted "Tidak Terpercaya">
 <!ENTITY noscriptUnknown "Tidak diketahui">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Sembunyikan elemen &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Tampikan elemen &lt;NOSCRIPT&gt; yang mengikuti &lt;SCRIPT&gt; yang dihalangi">
 <!ENTITY noscriptAutoAllowTopLevel "Ijinkan sementara situs top-level untuk awal">
-<!ENTITY noscriptDescription "Perlindungan tambahan untuk FireFox Anda: NoScript mengijinkan JavaScript, Java (dan plugin lainnya) hanya untuk domain terpercaya pilihan Anda (misal: situs web-banking personal). Daftar putih ini menjadi dasar perlindungan dari penyalahgunaan lubang keamanan (yang diketahui maupun tidak) tanpa kehilangan fungsionalitas... Para ahli percaya: FireFox lebih aman bersama NoScript :-)">
+<!ENTITY noscriptDescription "Perlindungan tambahan untuk FireFox Anda: NoScriptMinus mengijinkan JavaScript, Java (dan plugin lainnya) hanya untuk domain terpercaya pilihan Anda (misal: situs web-banking personal). Daftar putih ini menjadi dasar perlindungan dari penyalahgunaan lubang keamanan (yang diketahui maupun tidak) tanpa kehilangan fungsionalitas... Para ahli percaya: FireFox lebih aman bersama NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "halangi pemindai berdasar CSS">
 <!ENTITY noscriptOptFilterXGet "Bersihkan permintaan cross-site yang mencurigakan">
 <!ENTITY noscriptOptFilterXPost "Ubah permintaan POST cross-site menjadi permintaan GET tanpa data">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Abaikan set cookie tidak aman melalui HTTPS dari situs berikut ini:">
 <!ENTITY noscriptClearClickTitle "Peringatan ClearClick">
 <!ENTITY noscriptClearClickHeader "Clickjacking Potensial / Mencoba memakai ulang UI!">
-<!ENTITY noscriptClearClickDescription "NoScript menginterupsi interaksi mouse atau keyboard dengan elemen tersembunyi yang terpisah. Klik pada gambar di atas memilih antara versi terhalang dan jelas.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus menginterupsi interaksi mouse atau keyboard dengan elemen tersembunyi yang terpisah. Klik pada gambar di atas memilih antara versi terhalang dan jelas.">
 <!ENTITY noscriptClearClickOpt "Proteksi ClearClick pada halaman…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

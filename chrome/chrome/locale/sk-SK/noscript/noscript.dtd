@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Možnosti...">
 <!ENTITY noscriptOptions.accesskey "M">
-<!ENTITY noscriptOptionsLong "NoScript – Možnosti">
-<!ENTITY noscriptAbout "O rozšírení NoScript">
+<!ENTITY noscriptOptionsLong "NoScriptMinus – Možnosti">
+<!ENTITY noscriptAbout "O rozšírení NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Môžete určiť, ktoré webové stránky majú povolené spúšťať JavaScript. Zadajte adresu alebo doménu (napríklad &quot;http://www.site.com&quot; alebo &quot;site.com&quot;) stránky, ktorú chcete povoliť, a potom kliknite na tlačidlo Povoliť.">
 <!ENTITY noscriptWebAddress "Adresa webstránky:">
 <!ENTITY noscriptAllow "Povoliť">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Povolenia">
 <!ENTITY noscriptRefresh "Obnoviť">
 <!ENTITY noscriptNotifications "Oznámenia">
-<!ENTITY noscriptToolbarToggle "Kliknutím ľavým tlačidlom myši na tlačidlo NoScript na paneli s nástrojmi sa prepínajú povolenia pre aktuálnu doménu najvyššej úrovne">
+<!ENTITY noscriptToolbarToggle "Kliknutím ľavým tlačidlom myši na tlačidlo NoScriptMinus na paneli s nástrojmi sa prepínajú povolenia pre aktuálnu doménu najvyššej úrovne">
 <!ENTITY noscriptTrusted "Dôveryhodné">
 <!ENTITY noscriptUntrusted "Nedôveryhodné">
 <!ENTITY noscriptUnknown "Neznáme">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Skryť prvky &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Zobraziť prvok &lt;NOSCRIPT&gt;, ktorý nasleduje za blokovaným &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Dočasne povoliť stránky najvyššej úrovne">
-<!ENTITY noscriptDescription "Extra ochrana pre Firefox: NoScript povolí JavaScript, Javu (a ďalšie doplnky) len pre dôveryhodné domény podľa vášho výberu (napríklad webovú stránku bankingu). Tento zoznam dôveryhodných serverov založený na preventívnom blokovaní chráni pred zneužitím bezpečnostných dier (známych aj neznámych!) bez straty funkčnosti... Experti budú súhlasiť: Firefox s rozšírením NoScript je naozaj bezpečnejší :-)">
+<!ENTITY noscriptDescription "Extra ochrana pre Firefox: NoScriptMinus povolí JavaScript, Javu (a ďalšie doplnky) len pre dôveryhodné domény podľa vášho výberu (napríklad webovú stránku bankingu). Tento zoznam dôveryhodných serverov založený na preventívnom blokovaní chráni pred zneužitím bezpečnostných dier (známych aj neznámych!) bez straty funkčnosti... Experti budú súhlasiť: Firefox s rozšírením NoScriptMinus je naozaj bezpečnejší :-)">
 <!ENTITY noscriptOptBlockCssScanners "Blokovať skenery CSS">
 <!ENTITY noscriptOptFilterXGet "Ošetriť podozrivé požiadavky cross-site">
 <!ENTITY noscriptOptFilterXPost "Prepnúť požiadavky POST cross-site na údajovo bezstratové požiadavky GET">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignorovať nebezpečné cookies nastavené nastavené nasledujúcimi stránkami cez HTTPS">
 <!ENTITY noscriptClearClickTitle "Upozornenia ClearClick">
 <!ENTITY noscriptClearClickHeader "Potenciálny pokus o podvodné správanie po kliknutí!">
-<!ENTITY noscriptClearClickDescription "NoScript zachytil interakciu klávesnice alebo myši s čiastočne skrytým objektom. Kliknutím na obrázok môžete prepínať medzi podozrivou a prečistenou verziou.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus zachytil interakciu klávesnice alebo myši s čiastočne skrytým objektom. Kliknutím na obrázok môžete prepínať medzi podozrivou a prečistenou verziou.">
 <!ENTITY noscriptClearClickOpt "Ochrana ClearClick na">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

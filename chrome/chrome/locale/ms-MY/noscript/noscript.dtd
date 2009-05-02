@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Tetapan...">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "Tetapan NoScript">
-<!ENTITY noscriptAbout "Tentang NoScript">
+<!ENTITY noscriptOptionsLong "Tetapan NoScriptMinus">
+<!ENTITY noscriptAbout "Tentang NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Anda boleh menentukan laman web yang anda benarkan skripnya diproses. Taipkan alamat atau domain(contoh:&quot;http://www.tapak.com&quot; atau &quot;tapak.com&quot;) laman web yang diingini dan klik Benarkan">
 <!ENTITY noscriptWebAddress "Alamat laman web:">
 <!ENTITY noscriptAllow "Benarkan">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Kebenaran">
 <!ENTITY noscriptRefresh "Pulihkan">
 <!ENTITY noscriptNotifications "Notifikasi">
-<!ENTITY noscriptToolbarToggle "Klik kiri pada butang NoScript toolbar Kebenaran untuk laman top-level semasa">
+<!ENTITY noscriptToolbarToggle "Klik kiri pada butang NoScriptMinus toolbar Kebenaran untuk laman top-level semasa">
 <!ENTITY noscriptTrusted "Dipercayai">
 <!ENTITY noscriptUntrusted "Tidak Dipercayai">
 <!ENTITY noscriptUnknown "Tidak Diketahui">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Sembunyikan unsur &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Tunjukkan unsur &lt;NOSCRIPT&gt; apabila &lt;SCRIPT&gt; dihalang">
 <!ENTITY noscriptAutoAllowTopLevel "Benarkan sementara laman top-level secara biasa">
-<!ENTITY noscriptDescription "Perlindungaan tambahan untuk Firefox anda: NoScript membenarkan JavaScript, Java (dan plugin-plugin lain) hanya untuk laman yang anda percayai (contoh:laman web bank). Senarai putih berdasarkan pre-emptive menghalang eksploitasi pada sekuriti (yang diketahui dan tidak diketahui!) tanpa pengurangan fungsi... Pakar-pakar telah menyetujui bahawa: Firefox adalah benar-benar selamat dengan NoScript:-)">
+<!ENTITY noscriptDescription "Perlindungaan tambahan untuk Firefox anda: NoScriptMinus membenarkan JavaScript, Java (dan plugin-plugin lain) hanya untuk laman yang anda percayai (contoh:laman web bank). Senarai putih berdasarkan pre-emptive menghalang eksploitasi pada sekuriti (yang diketahui dan tidak diketahui!) tanpa pengurangan fungsi... Pakar-pakar telah menyetujui bahawa: Firefox adalah benar-benar selamat dengan NoScriptMinus:-)">
 <!ENTITY noscriptOptBlockCssScanners "Halang pengesan CSS">
 <!ENTITY noscriptOptFilterXGet "Membersihkan laman yang disyaki">
 <!ENTITY noscriptOptFilterXPost "Tukarkan permintaan cross-site POST kepada permintaan data GET">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Biarkan cookies yang tidak selamat menetapkan HTTPS untuk laman web berikut:">
 <!ENTITY noscriptClearClickTitle "ClearClick Warning">
 <!ENTITY noscriptClearClickHeader "Keupayaan Clickjacking / Cubaan menukarkan UI!">
-<!ENTITY noscriptClearClickDescription "NoScript diinteraksi bertindih pada tetikus atau papan kekunci dengan sebahagian unsur disembunyikan. Klik pada imej diatas untuk dikitar antara versi yang dihalang atau jelas.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus diinteraksi bertindih pada tetikus atau papan kekunci dengan sebahagian unsur disembunyikan. Klik pada imej diatas untuk dikitar antara versi yang dihalang atau jelas.">
 <!ENTITY noscriptClearClickOpt "Perlindungan ClearClick pada laman...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

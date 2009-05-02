@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Sätted…">
 <!ENTITY noscriptOptions.accesskey "S">
-<!ENTITY noscriptOptionsLong "NoScripti sätted">
-<!ENTITY noscriptAbout "Täpsemalt lisast NoScript…">
+<!ENTITY noscriptOptionsLong "NoScriptMinusi sätted">
+<!ENTITY noscriptAbout "Täpsemalt lisast NoScriptMinus…">
 <!ENTITY noscriptPermissionsText "Sa saad määrata, millistel veebilehtedel lubatakse skripte käivitada. Kirjuta veebilehe või domeeni aadress, mida soovid lubada (nt &quot;http://www.site.com&quot; või &quot;site.com&quot;) ja klõpsa Luba nuppu">
 <!ENTITY noscriptWebAddress "Veebisaidi aadress:">
 <!ENTITY noscriptAllow "Luba">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Õigused">
 <!ENTITY noscriptRefresh "Värskenda">
 <!ENTITY noscriptNotifications "Märguanded">
-<!ENTITY noscriptToolbarToggle "Vasak hiireklõps NoScript tööriistaribal lülitab ümber praeguse tipptaseme saidi õigused.">
+<!ENTITY noscriptToolbarToggle "Vasak hiireklõps NoScriptMinus tööriistaribal lülitab ümber praeguse tipptaseme saidi õigused.">
 <!ENTITY noscriptTrusted "Usaldusväärsed">
 <!ENTITY noscriptUntrusted "Mitteusaldusväärsed">
 <!ENTITY noscriptUnknown "Teadmata">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Peida &lt;NOSCRIPT&gt; elemendid">
 <!ENTITY noscriptNselForce "Näita &lt;NOSCRIPT&gt; elementi, mis järgneb blokeeritud &lt;SCRIPT&gt; elemendile">
 <!ENTITY noscriptAutoAllowTopLevel "Luba ajutiselt vaikimisi tipptaseme saidid">
-<!ENTITY noscriptDescription "Lisakaitse Firefoxile: NoScript lubab JavaSkripti, Javat (ja teisi pluginaid) ainult usaldusväärsetest domeenidest sinu valikul (nt kodupanga veebilehel). Antud nn valgel nimekirjal põhinev blokeerimine hoiab ära tuntud ja isegi tundmatute turvaaukude kuritahtlikku ärakasutamist ilma funktsionaalsust kaotamata… Eksperdid nõustuvad, et Firefox on turvalisem koos NoScriptiga :-)">
+<!ENTITY noscriptDescription "Lisakaitse Firefoxile: NoScriptMinus lubab JavaSkripti, Javat (ja teisi pluginaid) ainult usaldusväärsetest domeenidest sinu valikul (nt kodupanga veebilehel). Antud nn valgel nimekirjal põhinev blokeerimine hoiab ära tuntud ja isegi tundmatute turvaaukude kuritahtlikku ärakasutamist ilma funktsionaalsust kaotamata… Eksperdid nõustuvad, et Firefox on turvalisem koos NoScriptMinusiga :-)">
 <!ENTITY noscriptOptBlockCssScanners "Blokeeri CSS-põhinevad skannerid">
 <!ENTITY noscriptOptFilterXGet "Puhasta kahtlased saitidevahelised päringud">
 <!ENTITY noscriptOptFilterXPost "Muuda saitidevahelised POST-päringud andmevabadeks GET-päringuteks">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Kõiki järgnevate saitide poolt HTTPS kaudu loodud mitteturvalisi küpsiseid eiratakse">
 <!ENTITY noscriptClearClickTitle "ClearClick hoiatus">
 <!ENTITY noscriptClearClickHeader "Võimalik kliki röövimise/kasutajaliidese parandamise katse!">
-<!ENTITY noscriptClearClickDescription "NoScript pidas kinni hiire või klaviatuuri interaktsiooni osaliselt varjatud elemendiga. Hiireklõps ülaloleval pildil lülitab ümber tõkestatud ja puhastatud versiooni vahel.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus pidas kinni hiire või klaviatuuri interaktsiooni osaliselt varjatud elemendiga. Hiireklõps ülaloleval pildil lülitab ümber tõkestatud ja puhastatud versiooni vahel.">
 <!ENTITY noscriptClearClickOpt "ClearClick kaitse lehtedel...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

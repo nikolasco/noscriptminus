@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Nastavení...">
 <!ENTITY noscriptOptions.accesskey "N">
-<!ENTITY noscriptOptionsLong "Nastavení NoScript">
-<!ENTITY noscriptAbout "O rozšíření NoScript">
+<!ENTITY noscriptOptionsLong "Nastavení NoScriptMinus">
+<!ENTITY noscriptAbout "O rozšíření NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Můžete si zvolit, které webové stránky mají povoleno spouštět skripty. Zadejte adresu (např. http://www.site.com nebo site.com) na které se nachází stránka, pro kterou chcete skripty povolit a klepněte na Povolit.">
 <!ENTITY noscriptWebAddress "Adresa webové stránky:">
 <!ENTITY noscriptAllow "Povolit">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Zakázat prvky &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Zobrazit prvek &lt;NOSCRIPT&gt; následující po zablokovaném prvku &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Dočasně povolit stránky domény nejvyšší úrovně">
-<!ENTITY noscriptDescription "Mimořádná ochrana pro váš Firefox: NoScript povoluje JavaScript, Javu (a další zásuvné moduly) pouze pro důvěryhodné servery dle vašeho výběru (např. vaše stránka pro home-banking). Tento seznam důvěryhodných serverů založený na preventivním blokování přístupu předchází zneužití bezpečnostních děr (známých a dokonce i neznámých!) bez jakékoli ztráty na funkčnosti... Odborníci budou souhlasit: Firefox je skutečně bezpečnější s rozšířením NoScript :-)">
+<!ENTITY noscriptDescription "Mimořádná ochrana pro váš Firefox: NoScriptMinus povoluje JavaScript, Javu (a další zásuvné moduly) pouze pro důvěryhodné servery dle vašeho výběru (např. vaše stránka pro home-banking). Tento seznam důvěryhodných serverů založený na preventivním blokování přístupu předchází zneužití bezpečnostních děr (známých a dokonce i neznámých!) bez jakékoli ztráty na funkčnosti... Odborníci budou souhlasit: Firefox je skutečně bezpečnější s rozšířením NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Blokovat skenery založené na CSS">
 <!ENTITY noscriptOptFilterXGet "Zajistit podezřelé původce požadavku">
 <!ENTITY noscriptOptFilterXPost "Převést požadavky POST napříč stránkou na požadavky GET neobsahující data.">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignore unsafe cookies set over HTTPS by the following sites:">
 <!ENTITY noscriptClearClickTitle "ClearClick Warning">
 <!ENTITY noscriptClearClickHeader "Potential Clickjacking / UI Redressing Attempt!">
-<!ENTITY noscriptClearClickDescription "NoScript intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
 <!ENTITY noscriptClearClickOpt "ClearClick protection on pages…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

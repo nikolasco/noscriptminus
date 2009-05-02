@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Tùy chọn">
 <!ENTITY noscriptOptions.accesskey "y">
-<!ENTITY noscriptOptionsLong "Tùy chọn cho NoScript">
-<!ENTITY noscriptAbout "Thông tin về NoScript...">
+<!ENTITY noscriptOptionsLong "Tùy chọn cho NoScriptMinus">
+<!ENTITY noscriptAbout "Thông tin về NoScriptMinus...">
 <!ENTITY noscriptPermissionsText "Bạn có thể chỉ định trang web nào được phép chạy script. Gõ địa chỉ hay tên miền (v.d. &quot;http://www.nhaccodien.com&quot; hay &quot;nhaccodien.com&quot;) của trang mà bạn muốn cho phép, rồi nhấn Cho phép.">
 <!ENTITY noscriptWebAddress "Địa chỉ của trang web:">
 <!ENTITY noscriptAllow "Cho phép">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Quyền hạn">
 <!ENTITY noscriptRefresh "Tải lại">
 <!ENTITY noscriptNotifications "Khai báo">
-<!ENTITY noscriptToolbarToggle "Nhấn chuột trái vào nút NoScript trên thanh công cụ để tắt/mở quyền hạn cho trang miền cấp một hiện tại">
+<!ENTITY noscriptToolbarToggle "Nhấn chuột trái vào nút NoScriptMinus trên thanh công cụ để tắt/mở quyền hạn cho trang miền cấp một hiện tại">
 <!ENTITY noscriptTrusted "Tin cậy">
 <!ENTITY noscriptUntrusted "Không tin cậy">
 <!ENTITY noscriptUnknown "Không biết">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Ẩn các phần tử &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Hiển thị phần tử &lt;noscript&gt; đi sau một phần tử &lt;SCRIPT&gt; bị chặn">
 <!ENTITY noscriptAutoAllowTopLevel "Tạm thời cho phép trang miền cấp một theo mặc định">
-<!ENTITY noscriptDescription "Thêm sự bảo vệ cho Firefox của bạn: NoScript chỉ cho phép JavaScript, Java (và các plugins khác) được chạy trên những tên miền đáng tin mà bạn chọn (v.d., trang web ngân hàng của bạn). Hướng đi chặn trước dựa trên sổ trắng này ngăn chặn việc khai thác lổ hỏng bảo mật (biết trước và ngay cả chưa biết!) mà không mất đi tính năng... Các chuyên gia sẽ đồng ý rằng: Firefox thật sự an toàn hơn với NoScript :-)">
+<!ENTITY noscriptDescription "Thêm sự bảo vệ cho Firefox của bạn: NoScriptMinus chỉ cho phép JavaScript, Java (và các plugins khác) được chạy trên những tên miền đáng tin mà bạn chọn (v.d., trang web ngân hàng của bạn). Hướng đi chặn trước dựa trên sổ trắng này ngăn chặn việc khai thác lổ hỏng bảo mật (biết trước và ngay cả chưa biết!) mà không mất đi tính năng... Các chuyên gia sẽ đồng ý rằng: Firefox thật sự an toàn hơn với NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Chặn các trình quét dựa trên CSS">
 <!ENTITY noscriptOptFilterXGet "Làm sạch các yêu cầu cross-site đáng ngờ">
 <!ENTITY noscriptOptFilterXPost "Đổi các yêu cầu dạng POST cross-site sang yêu cầu dạng GET">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Bỏ qua các cookie không an toàn được tạo qua HTTPS bởi các trang sau:">
 <!ENTITY noscriptClearClickTitle "Cảnh Báo XóaNhấn">
 <!ENTITY noscriptClearClickHeader "Tiềm Ẩn Hành Động Chuyển Hướng Giao Diện / Chiếm Quyền Nhấp Chuột!">
-<!ENTITY noscriptClearClickDescription "NoScript chặn một tương tác chuột hoặc bàn phím bởi một phần tử bị ẩn một phần. Nhấn lên hình ở trên để chuyển qua lại giữa phiên bản ban đầu và phiên bản đã chặn.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus chặn một tương tác chuột hoặc bàn phím bởi một phần tử bị ẩn một phần. Nhấn lên hình ở trên để chuyển qua lại giữa phiên bản ban đầu và phiên bản đã chặn.">
 <!ENTITY noscriptClearClickOpt "Phòng ngừa XóaNhấn trên trang...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

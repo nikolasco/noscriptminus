@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Настройки…">
 <!ENTITY noscriptOptions.accesskey "Н">
-<!ENTITY noscriptOptionsLong "Настройки на NoScript">
-<!ENTITY noscriptAbout "За NoScript">
+<!ENTITY noscriptOptionsLong "Настройки на NoScriptMinus">
+<!ENTITY noscriptAbout "За NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Можете да зададете в кои уеб-сайтове е позволено да се използват скриптовете. Напишете адреса или домейна (например &quot;http://www.site.com&quot; или &quot;site.com&quot;) на сайта, който искате да разрешите и натиснете Разреши.">
 <!ENTITY noscriptWebAddress "Адрес на уеб-сайта:">
 <!ENTITY noscriptAllow "Разреши">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Разрешения">
 <!ENTITY noscriptRefresh "Обновяване">
 <!ENTITY noscriptNotifications "Известия">
-<!ENTITY noscriptToolbarToggle "Щракване с ляв бутон върху иконата на NoScript в лентата превключва разрешенията за конкретния сайт">
+<!ENTITY noscriptToolbarToggle "Щракване с ляв бутон върху иконата на NoScriptMinus в лентата превключва разрешенията за конкретния сайт">
 <!ENTITY noscriptTrusted "Надеждни">
 <!ENTITY noscriptUntrusted "Ненадеждни">
 <!ENTITY noscriptUnknown "Неизвестни">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Скриване на &lt;NOSCRIPT&gt; елементи">
 <!ENTITY noscriptNselForce "Показване на &lt;NOSCRIPT&gt; елемент, който следва блокиран &lt;SCRIPT&gt;">
 <!ENTITY noscriptAutoAllowTopLevel "Временно позволи използване на java от всички сайтове">
-<!ENTITY noscriptDescription "Допълнителна защита за вашия Firefox: NoScript контролира JavaScript, Java (и други добавки) за избрани от вас сайтове (например, вашият личен банков сайт). Предотвратява използването на &quot;дупки&quot; в сигурността от всякакъв вид (познати и непознати) без загуба на функционалност… Експертите ще се съгласят: Със NoScript вашият браузър е в безопасност :-)">
+<!ENTITY noscriptDescription "Допълнителна защита за вашия Firefox: NoScriptMinus контролира JavaScript, Java (и други добавки) за избрани от вас сайтове (например, вашият личен банков сайт). Предотвратява използването на &quot;дупки&quot; в сигурността от всякакъв вид (познати и непознати) без загуба на функционалност… Експертите ще се съгласят: Със NoScriptMinus вашият браузър е в безопасност :-)">
 <!ENTITY noscriptOptBlockCssScanners "Блокиране на CSS-базирани скенери">
 <!ENTITY noscriptOptFilterXGet "Изчистване на подозрителни крос-сайт заявки">
 <!ENTITY noscriptOptFilterXPost "Превръщане на POST крос-сайт заявките в GET заявки">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Игнориране на незащитените бисквитки за следните сайтове:">
 <!ENTITY noscriptClearClickTitle "ClearClick предупреждение">
 <!ENTITY noscriptClearClickHeader "Потенциална опасност от клик-отвличане/опит за пренасочване!">
-<!ENTITY noscriptClearClickDescription "NoScript прихвана взаимодействие между скрит елемент и мишката или клавиатурата. Натиснете върху картинката отгоре, за да превключите между подозрителната и чистата версия.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus прихвана взаимодействие между скрит елемент и мишката или клавиатурата. Натиснете върху картинката отгоре, за да превключите между подозрителната и чистата версия.">
 <!ENTITY noscriptClearClickOpt "ClearClick защита на страници...">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

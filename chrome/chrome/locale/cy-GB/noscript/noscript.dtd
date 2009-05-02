@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Opsiynau">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "Opsiynau NoScript">
-<!ENTITY noscriptAbout "Yngylch NoScript">
+<!ENTITY noscriptOptionsLong "Opsiynau NoScriptMinus">
+<!ENTITY noscriptAbout "Yngylch NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Cewch enwi pa wefannau sy&apos;n cael rhedeg sgriptiau. Teipiwch gyfeiriad neu barth (e.e. &quot;http://www.site.com&quot; neu &quot;site.com&quot;) y safle rydych eisiau ei ganiatau ac wedyn cliciwch Caniatau.">
 <!ENTITY noscriptWebAddress "Cyfeiriad wefan">
 <!ENTITY noscriptAllow "Caniatau">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Hawliau">
 <!ENTITY noscriptRefresh "Adfywio">
 <!ENTITY noscriptNotifications "Hysbysiadau">
-<!ENTITY noscriptToolbarToggle "Clicio chwith ar far offer NoScript yn toglo hawliau ar gyfer y wefan lefel-uchaf presennol">
+<!ENTITY noscriptToolbarToggle "Clicio chwith ar far offer NoScriptMinus yn toglo hawliau ar gyfer y wefan lefel-uchaf presennol">
 <!ENTITY noscriptTrusted "Dilys">
 <!ENTITY noscriptUntrusted "Annilys">
 <!ENTITY noscriptUnknown "Anhysbys">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Cuddio elfennau &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Dangos yr elfen &lt;NOSCRIPT&gt; sy&apos;n dilyn elfan &lt;SCRIPT&gt; waharddedig">
 <!ENTITY noscriptAutoAllowTopLevel "Caniatau&apos;n ddiofyn dros dro wefannau lefel-uchaf">
-<!ENTITY noscriptDescription "Diogelwch ychwanegol ar gyfer Firefox: bydd NoScript yn caniatau JavaScript, Java (ac atodynnau eraill) dim ond ar gyfer y parthau dilys yr ydych chi wedi&apos;u dewis (e.e. eich wefan bancio gartref). Mae&apos;r dull rhwystro rhag blaen seiliedig ar wenrestr hwn yn atal camddefnyddio gwendidau diogelwch (hysbys a hyd yn oed anhysbys) heb golli unrhyw alluoedd... Bydd arbennigwyr yn cydsynio: gwirioneddol safach yw Firefox gyda NoScript :-)">
+<!ENTITY noscriptDescription "Diogelwch ychwanegol ar gyfer Firefox: bydd NoScriptMinus yn caniatau JavaScript, Java (ac atodynnau eraill) dim ond ar gyfer y parthau dilys yr ydych chi wedi&apos;u dewis (e.e. eich wefan bancio gartref). Mae&apos;r dull rhwystro rhag blaen seiliedig ar wenrestr hwn yn atal camddefnyddio gwendidau diogelwch (hysbys a hyd yn oed anhysbys) heb golli unrhyw alluoedd... Bydd arbennigwyr yn cydsynio: gwirioneddol safach yw Firefox gyda NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Rhwystro sganwyr CSS-seiliedig">
 <!ENTITY noscriptOptFilterXGet "Glanhau ceisiadau amheus traws wefannol">
 <!ENTITY noscriptOptFilterXPost "Trawsffurfio ceisiadau POST traws wefannol yn geisiadau GET">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignore unsafe cookies set over HTTPS by the following sites:">
 <!ENTITY noscriptClearClickTitle "ClearClick Warning">
 <!ENTITY noscriptClearClickHeader "Potential Clickjacking / UI Redressing Attempt!">
-<!ENTITY noscriptClearClickDescription "NoScript intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
 <!ENTITY noscriptClearClickOpt "ClearClick protection on pages…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Nuostatos...">
 <!ENTITY noscriptOptions.accesskey "N">
-<!ENTITY noscriptOptionsLong "NoScript nuostatos">
-<!ENTITY noscriptAbout "Apie NoScript">
+<!ENTITY noscriptOptionsLong "NoScriptMinus nuostatos">
+<!ENTITY noscriptAbout "Apie NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Jūs galite nurodyti, kurioms interneto svetainėms suteikiamas leidimas leisti programinius kodus. Įveskite adresą arba domeną (pvz., &quot;http://www.svetaine.lt&quot; arba &quot;svetaine.lt&quot;) svetainės, kuriai norite suteikti leidimą ir spauskite Leisti.">
 <!ENTITY noscriptWebAddress "Interneto svetainės adresas:">
 <!ENTITY noscriptAllow "Leisti">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Leidimai">
 <!ENTITY noscriptRefresh "Atnaujinti">
 <!ENTITY noscriptNotifications "Pranešimai">
-<!ENTITY noscriptToolbarToggle "Kairysis paspaudimas ant NoScript įrankių juostos mygtuko keičia atidarytos svetainės leidimus">
+<!ENTITY noscriptToolbarToggle "Kairysis paspaudimas ant NoScriptMinus įrankių juostos mygtuko keičia atidarytos svetainės leidimus">
 <!ENTITY noscriptTrusted "Patikimi">
 <!ENTITY noscriptUntrusted "Nepatikimi">
 <!ENTITY noscriptUnknown "Nežinomi">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Paslėpti &lt;NOSCRIPT&gt; elementus">
 <!ENTITY noscriptNselForce "Rodyti &lt;NOSCRIPT&gt; elementus, kurie eina po blokinio &lt;SCRIPT&gt; elemento">
 <!ENTITY noscriptAutoAllowTopLevel "Laikinai suteikti leidimą aukščiausiojo lygio svetainių adresams pagal nutylėjimą">
-<!ENTITY noscriptDescription "Papildoma apsauga jūsų Firefox naršyklei: NoScript leidžia JavaScript, Java (ir kitus įskiepius) tik jūsų pasirinktiems patikimiems domenams (pvz., jūsų banko interneto svetainei). Ši baltuoju sąrašu pagrįsta išankstinio blokavimo taktika neleidžia panaudoti saugumo skylių (žinomų ir net nežinomų!) neprarandant funkcionalumo... Ekspertai pritaria: Firefox tikrai saugesnis su NoScript :-)">
+<!ENTITY noscriptDescription "Papildoma apsauga jūsų Firefox naršyklei: NoScriptMinus leidžia JavaScript, Java (ir kitus įskiepius) tik jūsų pasirinktiems patikimiems domenams (pvz., jūsų banko interneto svetainei). Ši baltuoju sąrašu pagrįsta išankstinio blokavimo taktika neleidžia panaudoti saugumo skylių (žinomų ir net nežinomų!) neprarandant funkcionalumo... Ekspertai pritaria: Firefox tikrai saugesnis su NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Blokuoti ieškiklius, pagrįstus CSS">
 <!ENTITY noscriptOptFilterXGet "Nukenksminti įtartinas tarp-svetainines užklausas">
 <!ENTITY noscriptOptFilterXPost "Paversti tarp-svetainines POST užklausas į tuščias GET užklausas">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Ignore unsafe cookies set over HTTPS by the following sites:">
 <!ENTITY noscriptClearClickTitle "ClearClick Warning">
 <!ENTITY noscriptClearClickHeader "Potential Clickjacking / UI Redressing Attempt!">
-<!ENTITY noscriptClearClickDescription "NoScript intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus intercepted a mouse or keyboard interaction with a partially hidden element. Click on the image above to cycle beetween the obstructed and the clear version.">
 <!ENTITY noscriptClearClickOpt "ClearClick protection on pages…">
 <!ENTITY noscriptClearClickReport "Report">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "This content cannot be displayed in a frame">
 <!ENTITY noscriptFrameOptErr.desc "To protect your security, the publisher of this content does not allow it to be displayed in a frame.">
 <!ENTITY noscriptFrameOptErr.link "Click here to open this content in a new window">
-<!ENTITY noscriptBookmarkSync "Backup NoScript configuration in a bookmark for easy synchronization">
+<!ENTITY noscriptBookmarkSync "Backup NoScriptMinus configuration in a bookmark for easy synchronization">

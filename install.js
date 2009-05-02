@@ -1,4 +1,4 @@
-const APP_DISPLAY_NAME = "NoScript";
+const APP_DISPLAY_NAME = "NoScriptMinus";
 const APP_NAME = "noscript";
 const APP_PACKAGE = "/informaction/noscript";
 const APP_VERSION = "1.9.2.4";

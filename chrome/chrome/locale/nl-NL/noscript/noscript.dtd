@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Opties...">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "NoScript Opties">
-<!ENTITY noscriptAbout "Over NoScript">
+<!ENTITY noscriptOptionsLong "NoScriptMinus Opties">
+<!ENTITY noscriptAbout "Over NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Webadressen in deze lijst hebben toestemming om JavaScript te gebruiken. Type het adres of domein in (bijv. &quot;http://www.site.com&quot; of &quot;site.com&quot;) van de door u toegestane site; klik daarna op Toestaan.">
 <!ENTITY noscriptWebAddress "Webadres:">
 <!ENTITY noscriptAllow "Toestaan">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "Toestemmingen">
 <!ENTITY noscriptRefresh "Vernieuwen">
 <!ENTITY noscriptNotifications "Waarschuwingen">
-<!ENTITY noscriptToolbarToggle "Links klikken op NoScript werkbalkknop schakelt toestemmingen voor huidige top-level site in/uit">
+<!ENTITY noscriptToolbarToggle "Links klikken op NoScriptMinus werkbalkknop schakelt toestemmingen voor huidige top-level site in/uit">
 <!ENTITY noscriptTrusted "Betrouwbaar">
 <!ENTITY noscriptUntrusted "Onbetrouwbaar">
 <!ENTITY noscriptUnknown "Onbekend">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "&lt;NOSCRIPT&gt; elementen verbergen">
 <!ENTITY noscriptNselForce "Het &lt;NOSCRIPT&gt; element dat na een geblokkeerd &lt;SCRIPT&gt; volgt weergeven">
 <!ENTITY noscriptAutoAllowTopLevel "Standaard top-level sites tijdelijk toestaan">
-<!ENTITY noscriptDescription "Extra bescherming voor Firefox: NoScript staat JavaScript, Java (en andere plugins) alleen toe voor zelf gekozen betrouwbare domeinen (bijv. de internetbankieren website). Deze op toestemmingslijsten gebaseerde blokkering vooraf voorkomt exploitatie van beveiligings kwetsbaarheden (bekende en zelfs onbekende!) zonder verlies aan functionaliteit... Experts zullen bevestigen: Firefox is werkelijk veiliger met NoScript :-)">
+<!ENTITY noscriptDescription "Extra bescherming voor Firefox: NoScriptMinus staat JavaScript, Java (en andere plugins) alleen toe voor zelf gekozen betrouwbare domeinen (bijv. de internetbankieren website). Deze op toestemmingslijsten gebaseerde blokkering vooraf voorkomt exploitatie van beveiligings kwetsbaarheden (bekende en zelfs onbekende!) zonder verlies aan functionaliteit... Experts zullen bevestigen: Firefox is werkelijk veiliger met NoScriptMinus :-)">
 <!ENTITY noscriptOptBlockCssScanners "Op cross-site scripting (CSS) gebaseerde scanners blokkeren">
 <!ENTITY noscriptOptFilterXGet "Verdachte cross-site verzoeken zuiveren">
 <!ENTITY noscriptOptFilterXPost "Cross-site POST verzoeken omzetten in data-vrije GET verzoeken">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Onveilige cookies ingesteld via HTTPS door onderstaande sites negeren:">
 <!ENTITY noscriptClearClickTitle "&apos;ClearClick&apos; waarschuwing">
 <!ENTITY noscriptClearClickHeader "Potentiële poging tot &apos;Clickjacking&apos; / aanpassing gebruikersinterface!">
-<!ENTITY noscriptClearClickDescription "NoScript heeft een muis of toetsenbord interactie met een gedeeltelijk verborgen element onderschept. Door te klikken op onderstaande afbeelding wordt van de belemmerende naar de zichtbare versie omgeschakeld.">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus heeft een muis of toetsenbord interactie met een gedeeltelijk verborgen element onderschept. Door te klikken op onderstaande afbeelding wordt van de belemmerende naar de zichtbare versie omgeschakeld.">
 <!ENTITY noscriptClearClickOpt "&apos;ClearClick&apos; bescherming inschakelen op pagina&apos;s gemarkeerd als...">
 <!ENTITY noscriptClearClickReport "Rapport">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "Deze inhoud kan niet in een frame worden weergegeven">
 <!ENTITY noscriptFrameOptErr.desc "Om uw veiligheid te beschermen, staat de uitgever van deze inhoud niet toe deze in een frame weer te geven.">
 <!ENTITY noscriptFrameOptErr.link "Klik hier om deze inhoud in een nieuw venster weer te geven">
-<!ENTITY noscriptBookmarkSync "NoScript configuratie in een bladwijzer opslaan voor eenvoudige synchronisatie">
+<!ENTITY noscriptBookmarkSync "NoScriptMinus configuratie in een bladwijzer opslaan voor eenvoudige synchronisatie">

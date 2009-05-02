@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "选项...">
 <!ENTITY noscriptOptions.accesskey "O">
-<!ENTITY noscriptOptionsLong "NoScript 选项">
-<!ENTITY noscriptAbout "关于 NoScript...">
+<!ENTITY noscriptOptionsLong "NoScriptMinus 选项">
+<!ENTITY noscriptAbout "关于 NoScriptMinus...">
 <!ENTITY noscriptPermissionsText "您可以指定允许执行脚本的网站。请输入您想要允许的网站地址或域名(例如: “http://www.site.com”或者“site.com”)然后单击“允许”。">
 <!ENTITY noscriptWebAddress "网站地址:">
 <!ENTITY noscriptAllow "允许">
@@ -69,7 +69,7 @@
 <!ENTITY noscriptPermissions "许可">
 <!ENTITY noscriptRefresh "刷新">
 <!ENTITY noscriptNotifications "通知">
-<!ENTITY noscriptToolbarToggle "左键单击 NoScript 工具栏按钮切换对当前顶层站点的许可">
+<!ENTITY noscriptToolbarToggle "左键单击 NoScriptMinus 工具栏按钮切换对当前顶层站点的许可">
 <!ENTITY noscriptTrusted "可信任">
 <!ENTITY noscriptUntrusted "不可信任">
 <!ENTITY noscriptUnknown "未知">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "隐藏 &lt;NOSCRIPT&gt; 元素">
 <!ENTITY noscriptNselForce "显示已被屏蔽的 &lt;SCRIPT&gt; 标签下的 &lt;NOSCRIPT&gt; 元素">
 <!ENTITY noscriptAutoAllowTopLevel "默认临时允许顶层站点">
-<!ENTITY noscriptDescription "为您的 Firefox 提供额外保护: NoScript 只允许在您选择的信任域 (例如您标示出的网站) 上执行 JavaScript、Java 和其他插件。该白名单基于抢先阻止机制，在不损失任何功能的前提下，防止利用已知或未知安全漏洞的攻击。">
+<!ENTITY noscriptDescription "为您的 Firefox 提供额外保护: NoScriptMinus 只允许在您选择的信任域 (例如您标示出的网站) 上执行 JavaScript、Java 和其他插件。该白名单基于抢先阻止机制，在不损失任何功能的前提下，防止利用已知或未知安全漏洞的攻击。">
 <!ENTITY noscriptOptBlockCssScanners "阻止基于 CSS 的扫描器">
 <!ENTITY noscriptOptFilterXGet "净化跨站点的可疑请求">
 <!ENTITY noscriptOptFilterXPost "把跨站点 POST 请求转换为最少数据的 GET 请求">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "以下站点通过 HTTPS 忽略不安全的 Cookies 设置:">
 <!ENTITY noscriptClearClickTitle "ClearClick 警告">
 <!ENTITY noscriptClearClickHeader "潜在的点击劫持 (Clickjacking) / UI 跳转攻击!">
-<!ENTITY noscriptClearClickDescription "NoScript 拦截了一个与隱藏元素互动的鼠标或键盘操作。 点击图片切换拦截和取消拦截。">
+<!ENTITY noscriptClearClickDescription "NoScriptMinus 拦截了一个与隱藏元素互动的鼠标或键盘操作。 点击图片切换拦截和取消拦截。">
 <!ENTITY noscriptClearClickOpt "启用 ClearClick 保护于">
 <!ENTITY noscriptClearClickReport "报告">
 <!ENTITY noscriptClearClickReport.accesskey "R">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "此内容不能被显示在框架帧中">
 <!ENTITY noscriptFrameOptErr.desc "为了保护你的安全, 此内容提供者不允许它被显示在框架帧中。">
 <!ENTITY noscriptFrameOptErr.link "点击这里在新窗口中打开此内容">
-<!ENTITY noscriptBookmarkSync "备份 NoScript 配置到书签以便轻松的同步">
+<!ENTITY noscriptBookmarkSync "备份 NoScriptMinus 配置到书签以便轻松的同步">

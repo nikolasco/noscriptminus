@@ -66,7 +66,7 @@ const INCLUDE = function(file) {
 }
 
 // component defined in this file
-const EXTENSION_ID="{73a6fe31-595d-460b-a920-fcc0f8843232}";
+const EXTENSION_ID="{ac11bd66-2836-4859-a4f3-7b28b273500e}";
 const SERVICE_NAME="NoScript Service";
 const SERVICE_ID="{31aec909-8e86-4397-9380-63a59e0c5ff5}";
 const SERVICE_CTRID = "@maone.net/noscript-service;1";

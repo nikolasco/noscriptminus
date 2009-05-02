@@ -1,7 +1,7 @@
 <!ENTITY noscriptOptions "Επιλογές">
 <!ENTITY noscriptOptions.accesskey "Ε">
-<!ENTITY noscriptOptionsLong "Επιλογές NoScript">
-<!ENTITY noscriptAbout "Περί NoScript">
+<!ENTITY noscriptOptionsLong "Επιλογές NoScriptMinus">
+<!ENTITY noscriptAbout "Περί NoScriptMinus">
 <!ENTITY noscriptPermissionsText "Μπορείτε να καθορίσετε για ποιους ιστότοπους θα επιτρέπεται η εκτέλεση σεναρίων εντολών. Πληκτρολογήστε τη διεύθυνση τομέα (πχ. &quot;http://www.site.com&quot; or &quot;site.com&quot;) του ιστότοπου που θέλετε και μετά κάντε κλικ στο «Να επιτρέπεται»">
 <!ENTITY noscriptWebAddress "Διεύθυνση ιστότοπου">
 <!ENTITY noscriptAllow "Να επιτρέπεται">
@@ -84,7 +84,7 @@
 <!ENTITY noscriptNselNever "Απόκρυψη στοιχείων &lt;NOSCRIPT&gt;">
 <!ENTITY noscriptNselForce "Προβολή του στοιχείου &lt;NOSCRIPT&gt; που ακολουθεί μπλοκαρισμένα σενάρια εντολών">
 <!ENTITY noscriptAutoAllowTopLevel "Να επιτρέπεται προσωρινά για τον βασικό ιστότοπο (ως αρχική ρύθμιση)">
-<!ENTITY noscriptDescription "Πρόσθετη προστασία για τον Firefox. Οι ειδικοί συμφωνούν: το NoScript δίνει μεγαλύτερη ασφάλεια στον Firefox. :-)">
+<!ENTITY noscriptDescription "Πρόσθετη προστασία για τον Firefox. Οι ειδικοί συμφωνούν: το NoScriptMinus δίνει μεγαλύτερη ασφάλεια στον Firefox. :-)">
 <!ENTITY noscriptOptBlockCssScanners "Μπλοκάρισμα ανιχνεύσεων CSS">
 <!ENTITY noscriptOptFilterXGet "Εκκαθάριση αιτημάτων ύποπτων ως cross-site scripting">
 <!ENTITY noscriptOptFilterXPost "Μετατροπή αιτημάτων cross-site POST σε κενά περιεχομένου αιτήματα GET">
@@ -139,7 +139,7 @@
 <!ENTITY noscriptSecureCookiesExceptions "Να αγνοούνται μη ασφαλή cookies που εγκαταστάθηκαν μέσω HTTPS από τους ακόλουθους ιστότοπους:">
 <!ENTITY noscriptClearClickTitle "Προειδοποίηση clearClick">
 <!ENTITY noscriptClearClickHeader "Πιθανή προσπάθεια επικάλυψης UI / Clickjacking!">
-<!ENTITY noscriptClearClickDescription "Το NoScript εντόπισε αλληλεπίδραση του ποντικιού ή του πληκτρολογίου με ένα μερικώς κρυφό στοιχείο. Κάντε κλικ στην παραπάνω εικόνα για εναλλαγή ανάμεσα στην απαγορευμένη και την επιτρεπόμενη εκδοχή.">
+<!ENTITY noscriptClearClickDescription "Το NoScriptMinus εντόπισε αλληλεπίδραση του ποντικιού ή του πληκτρολογίου με ένα μερικώς κρυφό στοιχείο. Κάντε κλικ στην παραπάνω εικόνα για εναλλαγή ανάμεσα στην απαγορευμένη και την επιτρεπόμενη εκδοχή.">
 <!ENTITY noscriptClearClickOpt "Προστασία clearClick σε ιστότοπους...">
 <!ENTITY noscriptClearClickReport "Αναφορά">
 <!ENTITY noscriptClearClickReport.accesskey "α">
@@ -154,4 +154,4 @@
 <!ENTITY noscriptFrameOptErr.title "Αυτό το περιεχόμενο δεν μπορεί να παρουσιαστεί σε πλαίσιο">
 <!ENTITY noscriptFrameOptErr.desc "Για να προστατεύσει την ασφάλεια σας, ο εκδότης του περιεχομένου δεν επιτρέπει την προβολή σε πλαίσιο">
 <!ENTITY noscriptFrameOptErr.link "Κάντε κλικ εδώ για να ανοίξετε το περιεχόμενο σε νέο παράθυρο">
-<!ENTITY noscriptBookmarkSync "Αντίγραφο ρυθμίσεων του NoScript σε σελιδοδείκτη για εύκολο συγχρονισμό">
+<!ENTITY noscriptBookmarkSync "Αντίγραφο ρυθμίσεων του NoScriptMinus σε σελιδοδείκτη για εύκολο συγχρονισμό">
