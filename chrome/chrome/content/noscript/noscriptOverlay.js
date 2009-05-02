@@ -1893,8 +1893,6 @@ var noscriptOverlay = noscriptUtil.service ?
       noscriptOverlay.shortcutKeys.register();
       noscriptOverlay.prefsObserver.register();
 
-      window.setTimeout(noscriptOverlay.firstRunCheck, 10);
-
     },
     
     
@@ -1923,23 +1921,6 @@ var noscriptOverlay = noscriptUtil.service ?
     }
     
   }, // END listeners
-  
-  firstRunCheck: function() {
-    var ns = noscriptUtil.service;
-   
-    const prevVer = ns.getPref("version", "");
-    if (prevVer != ns.VERSION) {
-      ns.setPref("version", ns.VERSION);
-      if (prevVer && prevVer < "1.1.4.070304") ns.sanitize2ndLevs();
-      ns.savePrefs(true);
-      if (ns.getPref("firstRunRedirection", true)) {
-          window.setTimeout(function() {
-            const url = "http://noscript.net?ver=" + noscriptUtil.service.VERSION + "&prev=" + prevVer;
-            noscriptUtil.browse(url);
-          }, 100);
-       }
-    }
-  },
   
   get _browserReady() {
     return window.gBrowser || window.Browser && (window.Browser._canvasBrowser || window.Browser._content);

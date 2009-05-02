@@ -78,7 +78,6 @@ pref("noscript.forbidMetaRefresh.notify", true);
 pref("noscript.contentBlocker", false);
 
 pref("noscript.toggle.temp", true);
-pref("noscript.firstRunRedirection", true);
 
 pref("noscript.xss.notify", true);
 pref("noscript.xss.notify.subframes", true);
