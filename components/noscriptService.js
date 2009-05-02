@@ -871,7 +871,7 @@ function NoscriptService() {
 }
 
 NoscriptService.prototype = {
-  VERSION: "1.9.2.4",
+  VERSION: "1.9.2.6",
   
   get wrappedJSObject() {
     return this;
@@ -1546,7 +1546,12 @@ NoscriptService.prototype = {
     CC['@mozilla.org/categorymanager;1'].getService(CI.nsICategoryManager)
       .addCategoryEntry("net-channel-event-sinks", SERVICE_CTRID, SERVICE_CTRID, false, true);
     
-    if (this.abpInstalled) INCLUDE("abp.js");
+    if (this.abpInstalled) try {
+      // remove the NoScript Development Support Filterset if it exists
+      CC[ABID].createInstance().wrappedJSObject.removeExternalSubscription("NoScript.net");
+    } catch(e) {
+      this.dump(e);
+    }
     
     return true;
   },
@@ -1585,7 +1590,7 @@ NoscriptService.prototype = {
     }
   },
   
-  
+ 
   reportLeaks: function() {
     // leakage detection
     this.dump("DUMPING " + this.__parent__);
@@ -2586,7 +2591,8 @@ NoscriptService.prototype = {
             return CP_OK;
           
           case 4: // STYLESHEETS
-            if (/\/x/i.test(aMimeTypeGuess) && !/chrome|resource/.test(aContentLocation.scheme) && this.getPref("forbidXSLT", true)) {
+            if (/\/x/i.test(aMimeTypeGuess) && !/chrome|resource/.test(aContentLocation.scheme) &&
+                (aContext instanceof CI.nsIDOMXMLDocument) && this.getPref("forbidXSLT", true)) {
               forbid = isScript = true; // we treat XSLT like scripts
               break;
             }
@@ -4950,7 +4956,7 @@ NoscriptService.prototype = {
     }
   },
   
-  attemptNavigation: function(doc, destURL, callback) {
+  _attemptNavigationInternal: function(doc, destURL, callback) {
     var cs = doc.characterSet;
     var uri = SiteUtils.ios.newURI(destURL, cs, SiteUtils.ios.newURI(doc.documentURI, cs, null));
     
@@ -4972,6 +4978,10 @@ NoscriptService.prototype = {
       }
       req.send(null);
     }
+  },
+  attemptNavigation: function(doc, destURL, callback) {
+    // delay is needed on Gecko < 1.9 to detach browser context
+    this.delayExec(this._attemptNavigationInternal, 0, doc, destURL, callback);
   },
   
   // simulate onchange on selects if options look like URLs

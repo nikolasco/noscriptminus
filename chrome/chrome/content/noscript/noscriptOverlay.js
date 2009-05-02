@@ -1926,12 +1926,11 @@ var noscriptOverlay = noscriptUtil.service ?
   
   firstRunCheck: function() {
     var ns = noscriptUtil.service;
+   
     const prevVer = ns.getPref("version", "");
     if (prevVer != ns.VERSION) {
       ns.setPref("version", ns.VERSION);
-      
       if (prevVer && prevVer < "1.1.4.070304") ns.sanitize2ndLevs();
-      
       ns.savePrefs(true);
       if (ns.getPref("firstRunRedirection", true)) {
           window.setTimeout(function() {
